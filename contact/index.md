@@ -2,12 +2,12 @@
 title: Contact
 nav:
   order: 5
-  tooltip: Email, address, and location
+  tooltip: Get in touch with us
 ---
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
+Our research group is part of the [Institute of Geodesy](https://www.tugraz.at/institute/ifg/home), at the school of [Whimsy and Caprice]().
 We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 {%
