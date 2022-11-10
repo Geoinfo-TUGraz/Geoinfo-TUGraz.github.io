@@ -54,7 +54,7 @@ Austria
 {% capture col1 %}
 {%
   include figure.html
-  image="images/ifg.png"
+  image="images/ifg2.png"
   caption="Institute of Geodesy"
 %}
 {% endcapture %}
