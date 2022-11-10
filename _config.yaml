@@ -1,9 +1,9 @@
 ### basic settings
 
 # site properties and page defaults
-title: TU Graz-RG Geoinformation
+title: TUG-RG Geoinformation
 description: Website for the Research Group Geoinformation, Institute of Geodesy, Graz University of Technology.
-logo: images/logo.svg
+logo: images/ifg.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
