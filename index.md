@@ -40,7 +40,7 @@ In order to contribute to the scientific field of Geographic Information Science
 
 {%
   include feature.html
-  image="images/earth.svg"
+  image="images/Earth.svg"
   link="research"
   title="Our Research Topics"
   text=text
