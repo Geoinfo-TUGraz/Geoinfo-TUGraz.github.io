@@ -7,7 +7,7 @@ The Research Group Geoinformation is part of the Institute for Geodesy at the Gr
 
 *WORK IN PROGRESS*
 
----
+
 {:.center}
 
 {% include section.html full=true %}
@@ -15,7 +15,7 @@ The Research Group Geoinformation is part of the Institute for Geodesy at the Gr
 <!--{% include banner.html image="images/banner.jpg" %}-->
 
 {% include section.html %}
-
+---
 # Highlights
 
 {% capture text %}
