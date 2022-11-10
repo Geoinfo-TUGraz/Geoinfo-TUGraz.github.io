@@ -7,9 +7,9 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our research group is part of the [Institute of Geodesy](https://www.tugraz.at/institute/ifg/home), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our research group is part of the [Institute of Geodesy](https://www.tugraz.at/institute/ifg/home), at the [Graz University of Technology](https://www.tugraz.at).
 
+<!--
 {%
   include link.html
   type="email"
@@ -28,31 +28,34 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   link="+1-555-867-5309"
   style="button"
 %}
+-->
 {%
   include link.html
   type="address"
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/TU+Graz+-+Institut+f%C3%BCr+Geod%C3%A4sie/@47.0641161,15.4531412,20.54z/data=!4m5!3m4!1s0x476e4a85d5b2769f:0xd272ccb6bd6dff3f!8m2!3d47.0641933!4d15.453245"
   style="button"
 %}
 {:.center}
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+### <i class="fas fa-mail-bulk"></i>Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Steyrergasse 30/I
+8010 Graz 
+Austria
 {:.center}
 
+
+<!--
 {% capture col1 %}
 {%
   include figure.html
   image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  caption="Institute of Geodesy"
 %}
 {% endcapture %}
 {% capture col2 %}
@@ -63,3 +66,4 @@ Canada
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
+-->
