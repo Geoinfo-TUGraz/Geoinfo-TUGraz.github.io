@@ -12,14 +12,20 @@ The Research Group Geoinformation is part of the Institute for Geodesy at the Gr
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+<!--{% include banner.html image="images/banner.jpg" %}-->
 
 {% include section.html %}
 
 # Highlights
 
 {% capture text %}
-Take a look at our research papers.
+In order to contribute to the scientific field of Geographic Information Science we focus on
+*	Modeling Indoor Space with focus on Production Environments
+*	Ontologies and Semantics related to Geoinformation
+*	(spatial) Linked (open) Data 
+*	Numerical Methods (Operations Research) in Geography 
+*	Agent-based Modeling 
+*	Geolinguistics
 
 {%
   include link.html
@@ -35,12 +41,18 @@ Take a look at our research papers.
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Our Research Topics"
   text=text
 %}
 
 {% capture text %}
-Take a loop at our projects.
+These research fields can be of vital interest for a number of application areas, such as
+*	Transport Modeling and Simulation
+*	Forest-based Supply Chain: Modeling, Simulation, Optimization
+*	DSS for Indoor Production Environments
+*	Land Use and Land Cover Modeling
+*	Cyberinfrastructuctures and Information sharing 
+*	and many more
 
 {%
   include link.html
@@ -56,11 +68,12 @@ Take a loop at our projects.
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Application Areas"
   flip=true
   text=text
 %}
 
+<!--
 {% capture text %}
 Take a look at our team.
 
@@ -84,3 +97,4 @@ Take a look at our team.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-->
