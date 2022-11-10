@@ -5,9 +5,9 @@ nav:
   tooltip: Recent projects of the Research Group
 ---
 
-# <i class="fas fa-tools"></i>Tools
+# <i class="fas fa-tools"></i>Projects
 
-Here are some scientific papers of our research group listed.
+Here are some recent projects of our research group listed.
 
 {% include search-info.html %}
 
