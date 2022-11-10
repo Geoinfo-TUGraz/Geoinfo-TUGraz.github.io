@@ -49,7 +49,7 @@ Steyrergasse 30/I\
 Austria
 {:.center}
 
-
+<!--
 
 {% capture col1 %}
 {%
@@ -66,3 +66,4 @@ Austria
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
+-->
