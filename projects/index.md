@@ -15,12 +15,12 @@ Here are some scientific papers of our research group listed.
 
 ## Featured
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
 <!--  ## Remove comment to include a "More" section on the projects page ##
 ## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="card" data="projects" filters="group: more" style="small" %}
 -->
