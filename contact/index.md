@@ -44,8 +44,8 @@ Our research group is part of the [Institute of Geodesy](https://www.tugraz.at/i
 
 ### <i class="fas fa-mail-bulk"></i>Address
 
-Steyrergasse 30/I
-8010 Graz 
+Steyrergasse 30/I\
+8010 Graz\
 Austria
 {:.center}
 
