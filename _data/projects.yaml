@@ -4,4 +4,5 @@
   link: projects/ABM4EnergyTransition
   description: Examine the possibilities of transitioning from fossile energy to renewable energy.
   tags:
-    - resource
+    - agent-based modeling
+    - renewable energy
