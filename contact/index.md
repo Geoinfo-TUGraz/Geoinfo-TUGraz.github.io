@@ -45,25 +45,26 @@ Our research group is part of the [Institute of Geodesy](https://www.tugraz.at/i
 ### <i class="fas fa-mail-bulk"></i>Address
 
 Steyrergasse 30/I
+
 8010 Graz 
+
 Austria
 {:.center}
 
 
-<!--
+
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/ifg.png"
   caption="Institute of Geodesy"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/tugraz.pdf"
+  caption="TU Graz"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
--->
