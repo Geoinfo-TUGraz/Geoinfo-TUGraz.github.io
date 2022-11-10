@@ -56,7 +56,7 @@ These research fields can be of vital interest for a number of application areas
 
 {%
   include link.html
-  link="tools"
+  link="projects"
   text="Take a look at our projects"
   icon="fas fa-arrow-right"
   flip=true
