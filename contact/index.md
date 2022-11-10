@@ -61,7 +61,7 @@ Austria
 {% capture col2 %}
 {%
   include figure.html
-  image="images/tugraz.pdf"
+  image="images/logo_tugraz.svg"
   caption="TU Graz"
 %}
 {% endcapture %}
