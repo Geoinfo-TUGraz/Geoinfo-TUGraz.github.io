@@ -13,7 +13,7 @@
 
 
 <header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
- <!---LOGO
+
  <a
     href="{{ '/' | relative_url }}"
     class="logo_row"
@@ -29,7 +29,7 @@
       </span>
     {% endif %}
   </a>
--->
+
   <nav class="nav_row">
     {%- assign pages = site.pages | where_exp: "page", "page.nav" | sort: "nav.order" -%}
     {%- for page in pages -%}
