@@ -7,8 +7,6 @@ nav:
 
 # <i class="fas fa-tools"></i>Projects
 
-Here are some recent projects of our research group listed.
-
 {% include search-info.html %}
 
 {% include section.html %}
