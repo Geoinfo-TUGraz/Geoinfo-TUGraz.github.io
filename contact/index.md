@@ -55,7 +55,7 @@ Austria
   include figure.html
   image="images/ifg2.png"
   caption="Institute of Geodesy"
-  height="200px"
+  height="150px"
 %}
 {% endcapture %}
 {% capture col2 %}
@@ -63,7 +63,7 @@ Austria
   include figure.html
   image="images/logo_tugraz.svg"
   caption="TU Graz"
-  height="200px"
+  height="150px"
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
