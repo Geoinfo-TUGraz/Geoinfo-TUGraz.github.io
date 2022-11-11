@@ -16,7 +16,7 @@ planning use, e.g. in energy space planning or district heating expansion planni
 ### Partners
 {%
   include figure.html
-  image="images/partner.png"
+  image="images/partners.png"
 %}
 
 * AEE INTEC GmbH
