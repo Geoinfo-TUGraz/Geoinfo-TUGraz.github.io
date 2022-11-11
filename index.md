@@ -62,7 +62,7 @@ These research fields can be of vital interest for a number of application areas
 
 {%
   include feature.html
-  image="images/marker_gm.png"
+  image="images/marker.png"
   link="resources"
   title="Application Areas"
   flip=true
