@@ -3,7 +3,7 @@
 # site properties and page defaults
 title: RG Geoinformation @ TU Graz
 description: Website for the Research Group Geoinformation, Institute of Geodesy, Graz University of Technology.
-logo: images/logo.svg
+logo: images/logo_tugraz.svg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
