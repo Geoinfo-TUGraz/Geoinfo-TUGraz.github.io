@@ -5,9 +5,6 @@ title: Home
 # Institute for Geodesy – Research Group Geoinformation
 The Research Group Geoinformation is part of the Institute for Geodesy at the Graz University of Technology and is doing research in Geographic Information Science and applied Geoinformation.
 
-*WORK IN PROGRESS*
-
-
 {:.center}
 
 <!--{% include banner.html image="images/banner.jpg" %}-->
