@@ -15,6 +15,7 @@ nav:
 
 {% include section.html %}
 
+<!--
 ## News
 
 Twitter embeds from https://publish.twitter.com/
@@ -26,3 +27,4 @@ Twitter embeds from https://publish.twitter.com/
 <a href="https://twitter.com/intent/tweet?screen_name=GreeneScientist&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
+-->
