@@ -18,5 +18,5 @@ This is a test. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed dia
 * Partner 1
 * Partner2
 
-###Acknowledgements
+### Acknowledgements
 This is gefördert by...
