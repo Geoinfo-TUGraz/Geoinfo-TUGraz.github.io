@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fas fa-microscope"></i>Research
-Here are some scientific papers of our research group listed.
+<!--Here are some scientific papers of our research group listed.-->
 
 {% include section.html %}
 
