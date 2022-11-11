@@ -14,17 +14,16 @@ The concrete project objective of ABM4EnergyTransition is the development and de
 planning use, e.g. in energy space planning or district heating expansion planning, and in a local GIS system. In addition, simplified simulation scenarios can also be initialized and visualized by interested citizens in the web application for a playful examination of the topic of heat transition and energy system change.
 
 ### Partners
+{%
+  include figure.html
+  image="images/partner.png"
+%}
+
 * AEE INTEC GmbH
 * École Polytechnique Fédérale de Lausanne, Laboratory on Human-Environment Relations in Urban Systems
 * Energieagentur Stmk GmbH
 * GISolutions e.U.
 * Stadtgemeinde Kapfenberg
-
-{%
-  include figure.html
-  image="images/partner.png"
-  caption="(c) GISolutions"
-%}
 
 ### Acknowledgements
 This is funded by 
