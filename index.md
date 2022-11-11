@@ -10,8 +10,6 @@ The Research Group Geoinformation is part of the Institute for Geodesy at the Gr
 
 {:.center}
 
-<!--{% include section.html full=true %}-->
-
 <!--{% include banner.html image="images/banner.jpg" %}-->
 
 {% include section.html %}
