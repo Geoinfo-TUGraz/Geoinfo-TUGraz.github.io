@@ -5,7 +5,7 @@ nav:
   tooltip: Get in touch with us
 ---
 
-# <i class="fas fa-envelope"></i>Contact
+# <i class="fas fa-envelope"></i>Where to find us
 
 Our research group is part of the [Institute of Geodesy](https://www.tugraz.at/institute/ifg/home), at the [Graz University of Technology](https://www.tugraz.at).
 
