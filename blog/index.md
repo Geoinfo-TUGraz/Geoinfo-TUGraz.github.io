@@ -7,7 +7,6 @@ nav:
 
 # <i class="fas fa-feather-alt"></i>Blog
 
-<!--
 
 {% include section.html %}
 
@@ -28,4 +27,3 @@ Twitter embeds from https://publish.twitter.com/
 <a href="https://twitter.com/intent/tweet?screen_name=GreeneScientist&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
--->
