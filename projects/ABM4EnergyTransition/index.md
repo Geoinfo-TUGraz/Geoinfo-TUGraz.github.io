@@ -8,7 +8,7 @@ This is a test. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed dia
 
 {%
   include figure.html
-  image="images/ABM4Energy_cropped.jpg"
+  image="images/ABM4Energy_cropped.png"
   caption="ABM4EnergyTra"
 %}
 
