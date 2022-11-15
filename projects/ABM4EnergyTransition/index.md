@@ -26,6 +26,10 @@ planning use, e.g. in energy space planning or district heating expansion planni
 * Stadtgemeinde Kapfenberg
 
 ### Acknowledgements
+{%
+  include figure.html
+  image="images/ffg_logo_de[1].svg"
+%}
 This is funded by 
 * Österreichische Forschungsförderungsgesellschaft mbH, FFG (Österreich) within the programme "AI for Green 2021"
 
