@@ -21,7 +21,7 @@ planning use, e.g. in energy space planning or district heating expansion planni
 
 * AEE INTEC GmbH
 * École Polytechnique Fédérale de Lausanne, Laboratory on Human-Environment Relations in Urban Systems
-* Energieagentur Stmk GmbH
+* Energieagentur Stmk gGmbH
 * GISolutions e.U.
 * Stadtgemeinde Kapfenberg
 
