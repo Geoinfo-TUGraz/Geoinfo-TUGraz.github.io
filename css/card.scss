@@ -5,6 +5,10 @@
 @import "theme";
 @import "mixins";
 
+#current-projects, #completed-projects{
+  padding: 60px 40px;
+}
+
 .card {
   display: inline-flex;
   justify-content: flex-start;
