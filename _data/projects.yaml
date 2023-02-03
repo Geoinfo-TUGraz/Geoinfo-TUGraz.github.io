@@ -1,3 +1,5 @@
+# Current Projects
+
 - title: ABM4EnergyTransition
   group: current
   image: images/ABM4Energy_cropped.png
@@ -55,3 +57,37 @@
     - GPS
     - Guidance
     - Information
+    
+- title: dbo@ema
+  group: more
+  image: 
+  link: projects/dboema
+  description: Datenbank der bairischen Mundarten - electronically mapped
+  tags:
+    - Interactive dialect database
+    - WebGIS
+    - Visualized linguistic areas
+    - Web-based knowledge infrastructure
+    - Austria from 1911
+    - Intangible everyday culture
+    
+- title: Spatial Data Infrastructure for Indoor Manufacturing Environments
+  group: more
+  image: 
+  link: projects/dboema
+  description: Spatial Data Infrastructure for Indoor Manufacturing Environments: A Case Study at a Semiconductor Manufacturing Company 
+  tags:
+  
+- title: Technical specifications for implementation of CLC+ based on the EAGLE concept 
+  group: more
+  image: 
+  link: projects/dboema
+  description: 
+  tags: 
+  
+- title: CLC+2 - Technical specifications for the implementation of CLC+ based on the EAGLE concept additional support for further development of CLC+ components (CLC-Backbone and CLC-Core) 
+  group: more
+  image: 
+  link: projects/dboema
+  description: 
+  tags: 
