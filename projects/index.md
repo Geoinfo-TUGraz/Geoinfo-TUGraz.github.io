@@ -17,8 +17,8 @@ nav:
 
 {% include section.html %}
 
-<!--  ## Remove comment to include a "More" section on the projects page ##
+
 ## More
 
 {% include list.html component="card" data="projects" filters="group: more" style="small" %}
--->
+
