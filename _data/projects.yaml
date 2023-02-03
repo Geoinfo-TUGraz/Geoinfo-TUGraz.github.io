@@ -74,20 +74,20 @@
 - title: Spatial Data Infrastructure for Indoor Manufacturing Environments
   group: more
   image: 
-  link: projects/dboema
+  link: projects/sdi4ime
   description: Spatial Data Infrastructure for Indoor Manufacturing Environments: A Case Study at a Semiconductor Manufacturing Company 
   tags:
   
 - title: Technical specifications for implementation of CLC+ based on the EAGLE concept 
   group: more
   image: 
-  link: projects/dboema
+  link: projects/CLCplus
   description: 
   tags: 
   
 - title: CLC+2 - Technical specifications for the implementation of CLC+ based on the EAGLE concept additional support for further development of CLC+ components (CLC-Backbone and CLC-Core) 
   group: more
   image: 
-  link: projects/dboema
+  link: projects/CLCplus2
   description: 
   tags: 
