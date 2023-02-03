@@ -58,7 +58,7 @@
     - Guidance
     - Information
     
-- title: dboema
+- title: dbo@ema
   group: more
   image: 
   link: projects/dboema
@@ -75,7 +75,7 @@
   group: more
   image: 
   link: projects/sdi4ime
-  description: Spatial Data Infrastructure for Indoor Manufacturing Environments: A Case Study at a Semiconductor Manufacturing Company 
+  description: Spatial Data Infrastructure for Indoor Manufacturing Environments A Case Study at a Semiconductor Manufacturing Company 
   tags:
   
 - title: Technical specifications for implementation of CLC+ based on the EAGLE concept 
