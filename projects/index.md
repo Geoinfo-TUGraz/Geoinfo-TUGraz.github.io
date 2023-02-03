@@ -18,7 +18,7 @@ nav:
 {% include section.html %}
 
 
-## Completed Projetcs
+## Completed Projects
 
 {% include list.html component="card" data="projects" filters="group: more" style="small" %}
 
