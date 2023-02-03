@@ -1,5 +1,5 @@
 - title: ABM4EnergyTransition
-  group: featured
+  group: current
   image: images/ABM4Energy_cropped.png
   link: projects/ABM4EnergyTransition
   description: Simulation approach for the spatial analysis and assessment of pathways for the municipal heat and energy transition using agent-based modeling.
@@ -46,12 +46,12 @@
  
  # Completed projects
   
-  - title: SOSguide
+- title: SOSguide
   group: more
   image: 
   link: projects/SOSguide
   description: Safety Monitoring System and Remote Guidance
   tags:
-    -GPS
-    -Guidance
-    -Information
+    - GPS
+    - Guidance
+    - Information
