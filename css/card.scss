@@ -6,10 +6,7 @@
 @import "mixins";
 
 /* Set padding for projects-->looks better */
-#current-projects{
-  padding: 60px 40px;
-}
-#completed-projects{
+#current-projects, #completed-projects{
   padding: 60px 40px;
 }
 
