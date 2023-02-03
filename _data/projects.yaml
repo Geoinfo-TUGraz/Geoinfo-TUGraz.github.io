@@ -68,26 +68,24 @@
     - WebGIS
     - Visualized linguistic areas
     - Web-based knowledge infrastructure
-    - Austria from 1911
-    - Intangible everyday culture
     
 - title: Spatial Data Infrastructure for Indoor Manufacturing Environments
   group: more
   image: 
   link: projects/sdi4ime
-  description: Spatial Data Infrastructure for Indoor Manufacturing Environments A Case Study at a Semiconductor Manufacturing Company 
+  description: A Case Study at a Semiconductor Manufacturing Company 
   tags:
   
-- title: Technical specifications for implementation of CLC+ based on the EAGLE concept 
+- title: CLC+
   group: more
   image: 
   link: projects/CLCplus
-  description: 
+  description: Technical specifications for implementation of CLC+ based on the EAGLE concept 
   tags: 
   
-- title: CLC+2 - Technical specifications for the implementation of CLC+ based on the EAGLE concept additional support for further development of CLC+ components (CLC-Backbone and CLC-Core) 
+- title: CLC+2
   group: more
   image: 
   link: projects/CLCplus2
-  description: 
+  description: Technical specifications for the implementation of CLC+ based on the EAGLE concept additional support for further development of CLC+ components (CLC-Backbone and CLC-Core) 
   tags: 
