@@ -9,7 +9,7 @@
     - energy transition
     - renewable energy
 
-- title: dTS - Data-driven Tourism for Sustainability
+- title: dTS
   group: featured
   image: 
   link: projects/dTS
@@ -18,3 +18,28 @@
     - Artificial Intelligence
     - Computersimulation
     - Geoinformatics
+
+- title: PV4EAG
+  group: featured
+  image: 
+  link: projects/PV4EAG
+  description: Analysis of area and energy potential using AI for alternative PV systems as a contribution to the EAG
+  tags:
+    - Geoinformatics
+    - Information Technology
+    - Sustainable Urban Development
+    - Sustainable Technologies
+
+- title: IGNITE
+  group: featured
+  image: 
+  link: projects/IGNITE
+  description: Improved assessment of forest fire susceptibility
+  tags:
+
+- title: GeoCrow
+  group: featured
+  image: 
+  link: projects/GeoCrow
+  description: GeoSemantic and Crowdsourced enhanced Virtual Reality for Situational Awareness Geoinformatik
+  tags:
