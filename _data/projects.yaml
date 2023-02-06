@@ -90,7 +90,7 @@
   description: Technical specifications for the implementation of CLC+ based on the EAGLE concept additional support for further development of CLC+ components (CLC-Backbone and CLC-Core) 
   tags: 
   
-  - title: Steirerteich
+- title: Steirerteich
   group: more
   image: 
   link: projects/Steirerteich
