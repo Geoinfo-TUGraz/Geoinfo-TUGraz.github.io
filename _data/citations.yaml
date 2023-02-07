@@ -50,24 +50,9 @@
   - Jing Gao
   - Krzysztof Janowicz
   publisher: Transactions in GIS
-  date: ''
+  date: '2022-12-01'
   link: https://doi.org/grq4r9
-  _cache: d91db79cad20e49d550579f02cfce75501d148e4bb183c3b26bb672202aba35b
-- id: doi:10.48550/arXiv.2206.13274
-  title: 'Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data'
-  authors:
-  - Julian Lemmel
-  - Zahra Babaiee
-  - Marvin Kleinlehner
-  - Ivan Majic
-  - Philipp Neubauer
-  - Johannes Scholz
-  - Radu Grosu
-  - Sophie A. Neubauer
-  publisher: arXiv
-  date: '2022-06-27'
-  link: https://doi.org/grq4sb
-  _cache: 1a0172d9b6b596740c772f3dc2f24bd177b2beda594f923f71e02a85da052704
+  _cache: b845d2b4d334e7a5b12d9337229a78da868f90260334ceea18cf83bd2dd71532
 - id: arxiv:2207.14331v2
   title: How Many Equations of Motion Describe a Moving Human?
   authors:
@@ -77,4 +62,115 @@
   publisher: arXiv
   date: '2022-07-28'
   link: https://arxiv.org/abs/2207.14331v2
-  _cache: 58d580dc8630158ef0cafffc12ec4d35d650bfadf7ef96a6bd700312e5178120
+  _cache: a944dac14d9b88457974a07cde0143a9c70c007e13d63164c8099eb269f1f820
+- id: arxiv:2206.13274v1
+  title: "Deep-Learning vs Regression: Prediction of Tourism Flow with Limited\n \
+    \ Data"
+  authors:
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  publisher: arXiv
+  date: '2022-06-27'
+  link: https://arxiv.org/abs/2206.13274v1
+  _cache: 060b0f067fe6a0c2aaa25719acff4ff17d2f4371c925cd0c84ab5e22701c86d9
+- id: doi:10.3390/socsci11080356
+  title: A Literature Review on the Usage of Agent-Based Modelling to Study Policies
+    for Managing International Migration
+  authors:
+  - Gabriele De Luca
+  - Thomas J. Lampoltshammer
+  - Shahanaz Parven
+  - Johannes Scholz
+  publisher: Social Sciences
+  date: '2022-08-09'
+  link: https://doi.org/grq4zh
+  _cache: e2a0a085a7f66eadc221d0e7be687f46b237761ddd7b2f7ca22dcf599198ab55
+- id: doi:10.5194/agile-giss-3-55-2022
+  title: Off-Road Navigation Maps for Robotic Platforms using Convolutional Neural
+    Networks
+  authors:
+  - Raphael Prinz
+  - Rizwan Bulbul
+  - Joahnnes Scholz
+  - Matthias Eder
+  - Gerald Steinbauer-Wagner
+  publisher: 'AGILE: GIScience Series'
+  date: '2022-06-11'
+  link: https://doi.org/grq4zj
+  _cache: cf6414ee57aabd1d15fe7e5bb1dba9f020ef260912e806e1591da3a4f8ffbb21
+- id: doi:10.1007/978-3-031-06245-2_6
+  title: "Optimising Antenna Positioning for\_Maximum Coverage: The Case Study of\_\
+    Cattle Tracking in\_Austrian Alps Using Long Range (LoRa) Based Monitoring System"
+  authors:
+  - Franz Welscher
+  - Rizwan Bulbul
+  - Johannes Scholz
+  - Peter Lederer
+  publisher: Web and Wireless Geographical Information Systems
+  date: '2022-01-01'
+  link: https://doi.org/grqp9g
+  _cache: 97f4bfe7ba264e26de85f0d1398e8deaf16439c935ec5108b8df5a7ff9ced733
+- id: doi:10.1007/s10109-022-00389-3
+  title: 'Platial mobility: expanding place and mobility in GIS via platio-temporal
+    representations and the mobilities paradigm'
+  authors:
+  - Farrukh Chishtie
+  - Rizwan Bulbul
+  - Panka Babukova
+  - Johannes Scholz
+  publisher: Journal of Geographical Systems
+  date: '2022-07-16'
+  link: https://doi.org/grq4zk
+  _cache: 96dd81cf4513204424335124ba4a40afe90d12e388f3bf0ba928250f0ea06f34
+- id: doi:10.5194/agile-giss-3-33-2022
+  title: Point Patterns of Historical Landmarks in the Valley of Mexico
+  authors:
+  - Laura Elmer
+  - Johannes Scholz
+  - Werner Stangl
+  publisher: 'AGILE: GIScience Series'
+  date: '2022-06-10'
+  link: https://doi.org/grq4zm
+  _cache: 45a26e04a8bf9a302866e296fbdccc631ed4bf11e7387e26a293222c4b3ff48a
+- id: doi:10.1520/SSMS20220004
+  title: Research Directions for Merging Geospatial Technologies with Smart Manufacturing
+    Systems
+  authors:
+  - Johannes Scholz
+  - William Z. Bernstein
+  - Rafael Radkowski
+  publisher: Smart and Sustainable Manufacturing Systems
+  date: '2022-09-26'
+  link: https://doi.org/grq4zn
+  _cache: 3f906c30236942a2ba650f3d400e7ea2f424606fe61142c7538bf560e47e2ea7
+- id: doi:10.1007/978-3-031-04870-8_56
+  title: 'The AMADEE-20 Robotic Exploration Cascade: An Experience Report'
+  authors:
+  - Hamid Didari
+  - Matthias Eder
+  - "Gernot Gr\xF6mer"
+  - Richard Halatschek
+  - "Seda \xD6zdemir-Fritz"
+  - Raphael Prinz
+  - Johannes Scholz
+  - Gerald Steinbauer-Wagner
+  publisher: Advances in Service and Industrial Robotics
+  date: '2022-01-01'
+  link: https://doi.org/grq4zp
+  _cache: 97b805deb9b29d2daa852bdef1ea11c7dbf0cf30a299288b8491c817577f337b
+- id: doi:10.5194/agile-giss-3-48-2022
+  title: 'The Intersection between GIScience and History: an Overview of an Emerging
+    Scientific Field'
+  authors:
+  - Hannah Meyer
+  - Johannes Scholz
+  publisher: 'AGILE: GIScience Series'
+  date: '2022-06-11'
+  link: https://doi.org/grq4zq
+  _cache: f13df385b09600483681a1166cfe550ab033290e6b780b468af224c5143f02d5
