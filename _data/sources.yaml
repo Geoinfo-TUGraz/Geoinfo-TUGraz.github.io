@@ -20,12 +20,37 @@
 
 # Symbolic and subsymbolic GeoAI : Geospatial knowledge graphs and spatially explicit machine learning
 - id: doi:10.1111/tgis.13012
-  date: 2022-12-18
-
-# Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data
-- id: doi:10.48550/arXiv.2206.13274
-  date: 2022-6-27
   
 # How Many Equations of Motion Describe a Moving Human?
 - id: arxiv:2207.14331v2
-  date: 2022-7-28
+
+# Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data
+- id: arxiv:2206.13274v1
+
+# A Literature Review on the Usage of Agent-Based Modelling to Study Policies for Managing International Migration
+- id: doi:10.3390/socsci11080356
+
+# Data-driven Tourism for Sustainability: The Role of Transdisciplinarity and Computational Social Sciences in Tourist Studies Programs
+
+# Geospatial Artificial Intelligence und Geoinformatik: neue Paradigmen in der räumlichen Analyse
+
+# Off-Road Navigation Maps for Robotic Platforms using Convolutional Neural Networks
+- id: doi:10.5194/agile-giss-3-55-2022
+
+#Optimising Antenna Positioning for Maximum Coverage: The Case Study of Cattle Tracking in Austrian Alps Using Long Range (LoRa) Based Monitoring System
+- id: doi:10.1007/978-3-031-06245-2_6
+
+# Platial mobility: expanding place and mobility in GIS via platio-temporal representations and the mobilities paradigm
+- id: doi:10.1007/s10109-022-00389-3
+
+# Point Patterns of Historical Landmarks in the Valley of Mexico
+- id: doi:10.5194/agile-giss-3-33-2022
+
+# Research Directions for Merging Geospatial Technologies with Smart Manufacturing Systems
+- id: doi:10.1520/SSMS20220004
+
+# The AMADEE-20 Robotic Exploration Cascade: An Experience Report
+- id: doi:10.1007/978-3-031-04870-8_56
+
+# The Intersection between GIScience and History: an Overview of an Emerging Scientific Field
+- id: doi:10.5194/agile-giss-3-48-2022
