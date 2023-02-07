@@ -30,13 +30,13 @@
   - Rizwan Bulbul
   - Stefanie Wallinger
   publisher: Information and Communication Technologies in Tourism 2023
-  date: ''
+  date: '2023-01-01'
   link: https://doi.org/grq4r8
   tags:
   - ABM
   - Tourism
   - Geo-simulation
-  _cache: 19f6e5f9630bf9971d4aa1d110e69954c5056fbb7d0fdb6af520a8b60deb8226
+  _cache: 4677724a2d829d84a0c0885817a3079cf2ec02155b3ab150337401a69220f611
 - id: doi:10.1111/tgis.13012
   title: "Symbolic and subsymbolic\n            <scp>GeoAI</scp>\n            : Geospatial\
     \ knowledge graphs and spatially explicit machine learning"
@@ -65,9 +65,9 @@
   - Radu Grosu
   - Sophie A. Neubauer
   publisher: arXiv
-  date: ''
+  date: '2022-06-27'
   link: https://doi.org/grq4sb
-  _cache: bbfa4ce4092fae1048696c62bf5894e56abd053a7e7d31ed6c9d425fce045c15
+  _cache: 1a0172d9b6b596740c772f3dc2f24bd177b2beda594f923f71e02a85da052704
 - id: arxiv:2207.14331v2
   title: How Many Equations of Motion Describe a Moving Human?
   authors:
@@ -75,6 +75,6 @@
   - ' '
   - ' '
   publisher: arXiv
-  date: ''
+  date: '2022-07-28'
   link: https://arxiv.org/abs/2207.14331v2
-  _cache: 9c53c492a747187c80b356faeb9008dd545631615b7ed2d25e22eb7b2a3068ee
+  _cache: 58d580dc8630158ef0cafffc12ec4d35d650bfadf7ef96a6bd700312e5178120
