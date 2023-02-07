@@ -10,19 +10,19 @@
     - type: source
       link: https://github.com/Geoinfo-TUGraz/UI4Dialect
       text: Source
-      
+
+# Tourist Flow Simulation in GAMA Using Historical Data Parameters
 - id: doi:10.1007/978-3-031-25752-0_27
-  image: 
   date: 2023-01-15
   tags: 
     - ABM
     - Tourism
     - Geo-simulation
-    
+
+# Symbolic and subsymbolic GeoAI : Geospatial knowledge graphs and spatially explicit machine learning
 - id: doi:10.1111/tgis.13012
   date: 2022-12-18
 
 # Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data
 - id: doi:10.48550/arXiv.2206.13274
-  image:
   date: 2022-06-27
