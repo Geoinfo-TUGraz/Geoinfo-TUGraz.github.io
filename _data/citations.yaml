@@ -32,12 +32,11 @@
   publisher: Information and Communication Technologies in Tourism 2023
   date: ''
   link: https://doi.org/grq4r8
-  image: null
   tags:
   - ABM
   - Tourism
   - Geo-simulation
-  _cache: 66073f97e7ee87d75efabd783c1abeb8e3e1f0177d4e2fa5d52073a7281610b1
+  _cache: 19f6e5f9630bf9971d4aa1d110e69954c5056fbb7d0fdb6af520a8b60deb8226
 - id: doi:10.1111/tgis.13012
   title: "Symbolic and subsymbolic\n            <scp>GeoAI</scp>\n            : Geospatial\
     \ knowledge graphs and spatially explicit machine learning"
@@ -68,5 +67,4 @@
   publisher: arXiv
   date: ''
   link: https://doi.org/grq4sb
-  image: null
-  _cache: bb03216aa513f3891c839d7e00b5b51089b904c78ce402ee170deee755be0e6a
+  _cache: bbfa4ce4092fae1048696c62bf5894e56abd053a7e7d31ed6c9d425fce045c15
