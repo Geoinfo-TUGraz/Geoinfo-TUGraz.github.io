@@ -1,7 +1,12 @@
 ## 2023
-# Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data
-- id: arxiv:2206.13274v1
+# Tourist Flow Simulation in GAMA Using Historical Data Parameters
+- id: doi:10.1007/978-3-031-25752-0_27
+  tags: 
+    - ABM
+    - Tourism
+    - Geo-simulation
 
+## 2022
 - id: doi:10.5194/ica-abs-5-68-2022
   image: images/dialect_lemma.png
   date: 2022-9-14
@@ -15,21 +20,18 @@
       link: https://github.com/Geoinfo-TUGraz/UI4Dialect
       text: Source
 
-## 2022
-# Tourist Flow Simulation in GAMA Using Historical Data Parameters
-- id: doi:10.1007/978-3-031-25752-0_27
-  tags: 
-    - ABM
-    - Tourism
-    - Geo-simulation
-
 # Symbolic and subsymbolic GeoAI : Geospatial knowledge graphs and spatially explicit machine learning
 - id: doi:10.1111/tgis.13012
   
 # How Many Equations of Motion Describe a Moving Human?
 - id: arxiv:2207.14331v2
+  authors:
+      - Gabriele De Luca
+      - Thomas J. Lampoltshammer
+      - Johannes Scholz
 
-
+# Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data
+- id: arxiv:2206.13274v1
 
 # A Literature Review on the Usage of Agent-Based Modelling to Study Policies for Managing International Migration
 - id: doi:10.3390/socsci11080356
