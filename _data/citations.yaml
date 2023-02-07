@@ -1,22 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: arxiv:2206.13274v1
-  title: "Deep-Learning vs Regression: Prediction of Tourism Flow with Limited\n \
-    \ Data"
+- id: doi:10.1007/978-3-031-25752-0_27
+  title: "Tourist Flow Simulation in\_GAMA Using Historical Data Parameters"
   authors:
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  publisher: arXiv
-  date: '2022-06-27'
-  link: https://arxiv.org/abs/2206.13274v1
-  _cache: 060b0f067fe6a0c2aaa25719acff4ff17d2f4371c925cd0c84ab5e22701c86d9
+  - Ivan Majic
+  - Johannes Scholz
+  - Rizwan Bulbul
+  - Stefanie Wallinger
+  publisher: Information and Communication Technologies in Tourism 2023
+  date: '2023-01-01'
+  link: https://doi.org/grq4r8
+  tags:
+  - ABM
+  - Tourism
+  - Geo-simulation
+  _cache: 4677724a2d829d84a0c0885817a3079cf2ec02155b3ab150337401a69220f611
 - id: doi:10.5194/ica-abs-5-68-2022
   title: Towards an intuitive User Interface and Geographic Question Answering for
     an existing spatial Linked Data Endpoint for Dialect Data
@@ -38,21 +37,6 @@
     link: https://github.com/Geoinfo-TUGraz/UI4Dialect
     text: Source
   _cache: 3deb36cb6c84459e2e6499448d2b10e4de6732c70bada5c8be7346575195835a
-- id: doi:10.1007/978-3-031-25752-0_27
-  title: "Tourist Flow Simulation in\_GAMA Using Historical Data Parameters"
-  authors:
-  - Ivan Majic
-  - Johannes Scholz
-  - Rizwan Bulbul
-  - Stefanie Wallinger
-  publisher: Information and Communication Technologies in Tourism 2023
-  date: '2023-01-01'
-  link: https://doi.org/grq4r8
-  tags:
-  - ABM
-  - Tourism
-  - Geo-simulation
-  _cache: 4677724a2d829d84a0c0885817a3079cf2ec02155b3ab150337401a69220f611
 - id: doi:10.1111/tgis.13012
   title: "Symbolic and subsymbolic\n            <scp>GeoAI</scp>\n            : Geospatial\
     \ knowledge graphs and spatially explicit machine learning"
@@ -72,13 +56,29 @@
 - id: arxiv:2207.14331v2
   title: How Many Equations of Motion Describe a Moving Human?
   authors:
+  - Gabriele De Luca
+  - Thomas J. Lampoltshammer
+  - Johannes Scholz
+  publisher: arXiv
+  date: '2022-07-28'
+  link: https://arxiv.org/abs/2207.14331v2
+  _cache: 568c1d601c8a3766956c20fc5e2361a502a2b37bfb25ca9473fc7cd81c5e5c20
+- id: arxiv:2206.13274v1
+  title: "Deep-Learning vs Regression: Prediction of Tourism Flow with Limited\n \
+    \ Data"
+  authors:
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
   - ' '
   - ' '
   - ' '
   publisher: arXiv
-  date: '2022-07-28'
-  link: https://arxiv.org/abs/2207.14331v2
-  _cache: a944dac14d9b88457974a07cde0143a9c70c007e13d63164c8099eb269f1f820
+  date: '2022-06-27'
+  link: https://arxiv.org/abs/2206.13274v1
+  _cache: 060b0f067fe6a0c2aaa25719acff4ff17d2f4371c925cd0c84ab5e22701c86d9
 - id: doi:10.3390/socsci11080356
   title: A Literature Review on the Usage of Agent-Based Modelling to Study Policies
     for Managing International Migration
