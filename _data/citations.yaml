@@ -213,3 +213,48 @@
   date: '2021-01-01'
   link: https://doi.org/grq4zv
   _cache: 7935b978da1f20a31ee21b40877f38333658ee80dc0860f43107b9e38a9697ef
+- id: doi:10.3390/ijgi9110681
+  title: Evaluating Geo-Tagged Twitter Data to Analyze Tourist Flows in Styria, Austria
+  authors:
+  - Johannes Scholz
+  - Janja Jeznik
+  publisher: ISPRS International Journal of Geo-Information
+  date: '2020-11-15'
+  link: https://doi.org/grq5fg
+  _cache: caed70deb0313f2c91f7b472c8c31529fe12280dbdb954acbf4e0df30b56bfd0
+- id: doi:10.1109/ISMAR-Adjunct51615.2020.00093
+  title: Merging Geospatial Technologies with Cross Reality in the context of smart
+    manufacturing systems
+  authors:
+  - Raffaele de Amicis
+  - William Z Bernstein
+  - Johannes Scholz
+  - Rafael Radkowski
+  - Bruno Simoes
+  - Joshua Lieberman
+  - Eric Prather
+  publisher: 2020 IEEE International Symposium on Mixed and Augmented Reality Adjunct
+    (ISMAR-Adjunct)
+  date: '2020-11-01'
+  link: https://doi.org/grq5fj
+  _cache: b53198376416929d409154c7f8cb35ec2a5dac3f721c67f6a5a6342a87d13ab4
+- id: doi:10.1007/978-3-030-14745-7_17
+  title: "Agent-Based Simulation for Indoor Manufacturing Environments\u2014Evaluating\
+    \ the Effects of Spatialization"
+  authors:
+  - Stefan Kern
+  - Johannes Scholz
+  publisher: Lecture Notes in Geoinformation and Cartography
+  date: '2019-04-16'
+  link: https://doi.org/grq5fk
+  _cache: 7a5836a3887233236d307f130e7837b8a92905e228a887c3a77d5509d1a67323
+- id: doi:10.3390/ijgi9090505
+  title: An Approach to Decompose and Evaluate a Complex GIS-Application Design to
+    a Simple, Lightweight, User-Centered App-Based Design Using User Experience Evaluation
+  authors:
+  - David Kammerhofer
+  - Johannes Scholz
+  publisher: ISPRS International Journal of Geo-Information
+  date: '2020-08-23'
+  link: https://doi.org/grq5fm
+  _cache: 107c6ffffb7d8fb2024c122477d2b8e8b83a22fae1fc5d062de949b3bcf40cf3
