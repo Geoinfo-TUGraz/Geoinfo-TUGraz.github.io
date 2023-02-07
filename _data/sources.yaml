@@ -1,3 +1,7 @@
+## 2023
+# Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data
+- id: arxiv:2206.13274v1
+
 - id: doi:10.5194/ica-abs-5-68-2022
   image: images/dialect_lemma.png
   date: 2022-9-14
@@ -11,6 +15,7 @@
       link: https://github.com/Geoinfo-TUGraz/UI4Dialect
       text: Source
 
+## 2022
 # Tourist Flow Simulation in GAMA Using Historical Data Parameters
 - id: doi:10.1007/978-3-031-25752-0_27
   tags: 
@@ -24,8 +29,7 @@
 # How Many Equations of Motion Describe a Moving Human?
 - id: arxiv:2207.14331v2
 
-# Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data
-- id: arxiv:2206.13274v1
+
 
 # A Literature Review on the Usage of Agent-Based Modelling to Study Policies for Managing International Migration
 - id: doi:10.3390/socsci11080356
@@ -54,3 +58,16 @@
 
 # The Intersection between GIScience and History: an Overview of an Emerging Scientific Field
 - id: doi:10.5194/agile-giss-3-48-2022
+
+## 2021
+# Simulating the forest fuel market as a socio‐ecological system with spatial agent‐based methods: A case study in Carinthia, Austria
+- id: doi:10.1111/nrm.12291
+
+#A Prototypical Geospatial Knowledge Graph And Spatio-Temporal Question Answering for Supply Chain Visibility
+- id: doi:10.25436/E2JS3V
+
+#Eco-friendly Routing based on real-time Air-quality Sensor Data from Vehicles
+- id: doi:10.25436/E23W2G
+
+#Spatial Linked Data Approach for Trace Data in Digital Humanities
+- id: doi:10.25436/E2T882
