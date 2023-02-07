@@ -1,6 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: arxiv:2206.13274v1
+  title: "Deep-Learning vs Regression: Prediction of Tourism Flow with Limited\n \
+    \ Data"
+  authors:
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  - ' '
+  publisher: arXiv
+  date: '2022-06-27'
+  link: https://arxiv.org/abs/2206.13274v1
+  _cache: 060b0f067fe6a0c2aaa25719acff4ff17d2f4371c925cd0c84ab5e22701c86d9
 - id: doi:10.5194/ica-abs-5-68-2022
   title: Towards an intuitive User Interface and Geographic Question Answering for
     an existing spatial Linked Data Endpoint for Dialect Data
@@ -63,22 +79,6 @@
   date: '2022-07-28'
   link: https://arxiv.org/abs/2207.14331v2
   _cache: a944dac14d9b88457974a07cde0143a9c70c007e13d63164c8099eb269f1f820
-- id: arxiv:2206.13274v1
-  title: "Deep-Learning vs Regression: Prediction of Tourism Flow with Limited\n \
-    \ Data"
-  authors:
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  publisher: arXiv
-  date: '2022-06-27'
-  link: https://arxiv.org/abs/2206.13274v1
-  _cache: 060b0f067fe6a0c2aaa25719acff4ff17d2f4371c925cd0c84ab5e22701c86d9
 - id: doi:10.3390/socsci11080356
   title: A Literature Review on the Usage of Agent-Based Modelling to Study Policies
     for Managing International Migration
@@ -174,3 +174,43 @@
   date: '2022-06-11'
   link: https://doi.org/grq4zq
   _cache: f13df385b09600483681a1166cfe550ab033290e6b780b468af224c5143f02d5
+- id: doi:10.1111/nrm.12291
+  title: "Simulating the forest fuel market as a socio\u2010ecological system with\
+    \ spatial agent\u2010based methods: A case study in Carinthia, Austria"
+  authors:
+  - Johannes Scholz
+  - Florian Breitwieser
+  - Peter Mandl
+  publisher: Natural Resource Modeling
+  date: '2020-11-06'
+  link: https://doi.org/gn86dt
+  _cache: eb841158baa7ea2e0334b4b9834a8308a5311f03b76698757e8e6dba7a443cb9
+- id: doi:10.25436/E2JS3V
+  title: A Prototypical Geospatial Knowledge Graph And Spatio-Temporal Question Answering
+    for Supply Chain Visibility
+  authors:
+  - Silvia Dopler
+  - Johannes Scholz
+  publisher: Spatial Data Science Symposium 2021 (online)
+  date: '2021-01-01'
+  link: https://doi.org/grq4zs
+  _cache: ba39c2a5bdf085278f9c6d59b4d0cfbc1f431d1af3081917ef06d29283448543
+- id: doi:10.25436/E23W2G
+  title: Eco-friendly Routing based on real-time Air-quality Sensor Data from Vehicles
+  authors:
+  - Johannes Scholz
+  - Christoph Url
+  publisher: GIScience 2021 Short Paper Proceedings. 11th International Conference
+    on Geographic Information Science. September 27-30
+  date: '2021-01-01'
+  link: https://doi.org/grq4zt
+  _cache: 725158066a6f69256a180be8fa1492b669768b52c968e16cc9bb2349c2873548
+- id: doi:10.25436/E2T882
+  title: Spatial Linked Data Approach for Trace Data in Digital Humanities
+  authors:
+  - "Franziska H\xFCbl"
+  - Johannes Scholz
+  publisher: Spatial Data Science Symposium 2021 (online)
+  date: '2021-01-01'
+  link: https://doi.org/grq4zv
+  _cache: 7935b978da1f20a31ee21b40877f38333658ee80dc0860f43107b9e38a9697ef
