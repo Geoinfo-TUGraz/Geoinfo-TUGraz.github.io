@@ -22,3 +22,51 @@
     link: https://github.com/Geoinfo-TUGraz/UI4Dialect
     text: Source
   _cache: 3deb36cb6c84459e2e6499448d2b10e4de6732c70bada5c8be7346575195835a
+- id: doi:10.1007/978-3-031-25752-0_27
+  title: "Tourist Flow Simulation in\_GAMA Using Historical Data Parameters"
+  authors:
+  - Ivan Majic
+  - Johannes Scholz
+  - Rizwan Bulbul
+  - Stefanie Wallinger
+  publisher: Information and Communication Technologies in Tourism 2023
+  date: ''
+  link: https://doi.org/grq4r8
+  image: null
+  tags:
+  - ABM
+  - Tourism
+  - Geo-simulation
+  _cache: 66073f97e7ee87d75efabd783c1abeb8e3e1f0177d4e2fa5d52073a7281610b1
+- id: doi:10.1111/tgis.13012
+  title: "Symbolic and subsymbolic\n            <scp>GeoAI</scp>\n            : Geospatial\
+    \ knowledge graphs and spatially explicit machine learning"
+  authors:
+  - Gengchen Mai
+  - Yingjie Hu
+  - Song Gao
+  - Ling Cai
+  - Bruno Martins
+  - Johannes Scholz
+  - Jing Gao
+  - Krzysztof Janowicz
+  publisher: Transactions in GIS
+  date: ''
+  link: https://doi.org/grq4r9
+  _cache: d91db79cad20e49d550579f02cfce75501d148e4bb183c3b26bb672202aba35b
+- id: doi:10.48550/arXiv.2206.13274
+  title: 'Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data'
+  authors:
+  - Julian Lemmel
+  - Zahra Babaiee
+  - Marvin Kleinlehner
+  - Ivan Majic
+  - Philipp Neubauer
+  - Johannes Scholz
+  - Radu Grosu
+  - Sophie A. Neubauer
+  publisher: arXiv
+  date: ''
+  link: https://doi.org/grq4sb
+  image: null
+  _cache: bb03216aa513f3891c839d7e00b5b51089b904c78ce402ee170deee755be0e6a
