@@ -124,22 +124,22 @@
   date: '2019-01-01'
   
 # An Approach to enrich the Optimization of the Forest-based Supply Chain by Semantics
-#- title: 'An Approach to enrich the Optimization of the Forest-based Supply Chain by Semantics'
-#  authors:
-#    - Johannes Scholz
-#    - Alexandra S. Marques
-#  publisher: EURO 2019 - Abstract Book 
-#  date: '2019-01-01'
+- title: 'An Approach to enrich the Optimization of the Forest-based Supply Chain by Semantics'
+  authors:
+    - Johannes Scholz
+    - Alexandra S. Marques
+  publisher: EURO 2019 - Abstract Book 
+  date: '2019-01-01'
   
 # A spatial Agent-based Simulation of the Wood Chips Market: Comparing six different Simulation Scenarios for the Province of Carinthia, Austria
-#- title: 'A spatial Agent-based Simulation of the Wood Chips Market: Comparing six different Simulation Scenarios for the Province of Carinthia, Austria'
-#  authors:
-#    - Johannes Scholz
-#    - Peter Mandl
-#    - Florian Breitwieser
-#  publisher: Abstract von 18th Symposium on Systems Analysis in Forest Resources, Puerto Varas, Chile.
-#  date: '2019-01-01'
-#  link: 
+- title: 'A spatial Agent-based Simulation of the Wood Chips Market: Comparing six different Simulation Scenarios for the Province of Carinthia, Austria'
+  authors:
+    - Johannes Scholz
+    - Peter Mandl
+    - Florian Breitwieser
+  publisher: Abstract von 18th Symposium on Systems Analysis in Forest Resources, Puerto Varas, Chile.
+  date: '2019-01-01'
+  link: 
 
 #A Spatial Data Analysis Approach for Public Policy Simulation in Thermal Energy Transition Scenarios
 - id: doi:10.1007/978-3-658-27495-5_8
