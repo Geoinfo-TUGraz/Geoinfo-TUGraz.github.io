@@ -98,7 +98,8 @@
   - Stefanie Wallinger
   publisher: Proceedings of CloudEarth Conference 2022
   date: ''
-  _cache: 2d2cb18d6e87422ed76762011ed2306f0934fd05ff2d8e1a1ea83cad465d4333
+  link: https://conference.cloudearthi.com/wp-content/uploads/2022/05/ID_8.pdf
+  _cache: 495d8e634cbab57aa31f24bbf2631a34e05a281d4cb6c135884d88dd8e45f81a
 - id: doi:10.5194/agile-giss-3-55-2022
   title: Off-Road Navigation Maps for Robotic Platforms using Convolutional Neural
     Networks
