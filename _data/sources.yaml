@@ -48,12 +48,12 @@
   link: https://conference.cloudearthi.com/wp-content/uploads/2022/05/ID_8.pdf
   
 # Geospatial Artificial Intelligence und Geoinformatik: neue Paradigmen in der räumlichen Analyse
-- title: Geospatial Artificial Intelligence und Geoinformatik: neue Paradigmen in der räumlichen Analyse
-  authors:
-    - Johannes Scholz
-  publisher: GeoNews
-  date: 2022-01-01
-  link: https://www.rmdatagroup.com/aktuelles/geonews/geonews-2-2022/#c15759
+#- title: Geospatial Artificial Intelligence und Geoinformatik: neue Paradigmen in der räumlichen Analyse
+#  authors:
+#    - Johannes Scholz
+#  publisher: GeoNews
+#  date: 2022-01-01
+#  link: https://www.rmdatagroup.com/aktuelles/geonews/geonews-2-2022/#c15759
   
 # Off-Road Navigation Maps for Robotic Platforms using Convolutional Neural Networks
 - id: doi:10.5194/agile-giss-3-55-2022
