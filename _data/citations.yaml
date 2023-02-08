@@ -276,3 +276,47 @@
   date: '2020-08-23'
   link: https://doi.org/grq5fm
   _cache: 107c6ffffb7d8fb2024c122477d2b8e8b83a22fae1fc5d062de949b3bcf40cf3
+- id: doi:10.5194/isprs-archives-XLII-4-W14-111-2019
+  title: 'SEMANTIC ENRICHMENT OF ROUTING ENGINES USING LINKED DATA: A CASE STUDY USING
+    GRAPHHOPPER'
+  authors:
+  - J. A. Jabbar
+  - R. Bulbul
+  publisher: The International Archives of the Photogrammetry, Remote Sensing and
+    Spatial Information Sciences
+  date: '2019-08-23'
+  link: https://doi.org/grq77d
+  _cache: 138695536b0d40060dba4d0f973a9f0bd21bd38daee8c83bec6b6875c365b015
+- title: 'Towards National SDI in Pakistan: The Challenges'
+  authors:
+  - Rizwan Bulbul
+  - Muhammad Sheraz Ahsan
+  - Johum Fatimah Mirza
+  publisher: Federation of International Surveyors
+  date: '2019-02-28'
+  link: https://www.fig.net/resources/proceedings/fig_proceedings/fig2019/papers/ts05c/TS05C_bulbul_ahsan_et_al_9815.pdf
+  _cache: 2a02dea6456859e4aeff7671c6898e9df0aa7c3f6657728bcb2ed6ee0adf3f9f
+- id: doi:10.1007/978-3-658-27495-5_8
+  title: A Spatial Data Analysis Approach for Public Policy Simulation in Thermal
+    Energy Transition Scenarios
+  authors:
+  - Lina Stanzel
+  - Johannes Scholz
+  - Franz Mauthner
+  publisher: "Data Science \u2013 Analytics and Applications"
+  date: '2019-01-01'
+  link: https://doi.org/grq77f
+  _cache: 082f7d3452118ba636e82581b0dba920ee203c943c44b3acd53b88c30d05b668
+- id: doi:10.3390/ijgi8010041
+  title: "Role-Tailored Map Dashboards\u2014A New Approach for Enhancing the Forest-based\
+    \ Supply Chain"
+  authors:
+  - Caroline Atzl
+  - Johannes Scholz
+  - Bernhard Vockner
+  - "Manfred Mittlb\xF6ck"
+  - Laura Knoth
+  publisher: ISPRS International Journal of Geo-Information
+  date: '2019-01-17'
+  link: https://doi.org/grq77g
+  _cache: ec77587b8713bab5547e503d74a7771d3a76abf1d7c5359c71a49d9e344d542b
