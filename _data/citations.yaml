@@ -296,6 +296,14 @@
   date: '2019-02-28'
   link: https://www.fig.net/resources/proceedings/fig_proceedings/fig2019/papers/ts05c/TS05C_bulbul_ahsan_et_al_9815.pdf
   _cache: 2a02dea6456859e4aeff7671c6898e9df0aa7c3f6657728bcb2ed6ee0adf3f9f
+- title: A Linked Data Approach for Semantically enriched Information Sharing to enable
+    Cooperation among Actors of the Forest-based Supply Chain
+  authors:
+  - Johannes Scholz
+  publisher: Abstract von 18th Symposium on Systems Analysis in Forest Resources,
+    Puerto Varas, Chile.
+  date: '2019-01-01'
+  _cache: a365f619580a9fbf1f4f08159b9917cb2f5343d554eff2cc1f5ec516b21949b5
 - id: doi:10.1007/978-3-658-27495-5_8
   title: A Spatial Data Analysis Approach for Public Policy Simulation in Thermal
     Energy Transition Scenarios
