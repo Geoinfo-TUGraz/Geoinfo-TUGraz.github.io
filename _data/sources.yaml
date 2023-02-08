@@ -37,15 +37,15 @@
 - id: doi:10.3390/socsci11080356
 
 # Data-driven Tourism for Sustainability: The Role of Transdisciplinarity and Computational Social Sciences in Tourist Studies Programs
--id: url:https://conference.cloudearthi.com/wp-content/uploads/2022/05/ID_8.pdf
-#- title: Data-driven Tourism for Sustainability: The Role of Transdisciplinarity and Computational Social Sciences in Tourist Studies Programs
-#  authors:
-#    - Thomas J. Lampoltshammer
-#    - Johannes Scholz
-#    - Stefanie Wallinger
-#  publisher: Proceedings of CloudEarth Conference 2022 
-#  date: 2022-05-18
-#  link: https://conference.cloudearthi.com/wp-content/uploads/2022/05/ID_8.pdf
+- id:
+- title: Data-driven Tourism for Sustainability: The Role of Transdisciplinarity and Computational Social Sciences in Tourist Studies Programs
+  authors:
+    - Thomas J. Lampoltshammer
+    - Johannes Scholz
+    - Stefanie Wallinger
+  publisher: Proceedings of CloudEarth Conference 2022 
+  date: 2022-05-18
+  link: https://conference.cloudearthi.com/wp-content/uploads/2022/05/ID_8.pdf
   
 # Geospatial Artificial Intelligence und Geoinformatik: neue Paradigmen in der räumlichen Analyse
 #- title: Geospatial Artificial Intelligence und Geoinformatik: neue Paradigmen in der räumlichen Analyse
