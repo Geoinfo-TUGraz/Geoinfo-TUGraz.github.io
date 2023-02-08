@@ -117,11 +117,11 @@
   link: https://www.fig.net/resources/proceedings/fig_proceedings/fig2019/papers/ts05c/TS05C_bulbul_ahsan_et_al_9815.pdf
   
 #A Linked Data Approach for Semantically enriched Information Sharing to enable Cooperation among Actors of the Forest-based Supply Chain
-#- title: 'A Linked Data Approach for Semantically enriched Information Sharing to enable Cooperation among Actors of the Forest-based Supply Chain'
-#  authors:
-#    - Johannes Scholz
-#  publisher: Abstract von 18th Symposium on Systems Analysis in Forest Resources, Puerto Varas, Chile.
-#  date: '2019-01-01'
+- title: 'A Linked Data Approach for Semantically enriched Information Sharing to enable Cooperation among Actors of the Forest-based Supply Chain'
+  authors:
+    - Johannes Scholz
+  publisher: Abstract von 18th Symposium on Systems Analysis in Forest Resources, Puerto Varas, Chile.
+  date: '2019-01-01'
   
 # An Approach to enrich the Optimization of the Forest-based Supply Chain by Semantics
 #- title: 'An Approach to enrich the Optimization of the Forest-based Supply Chain by Semantics'
