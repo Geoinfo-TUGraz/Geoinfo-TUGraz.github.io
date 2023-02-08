@@ -63,7 +63,7 @@
   date: '2022-07-28'
   link: https://arxiv.org/abs/2207.14331v2
   _cache: 568c1d601c8a3766956c20fc5e2361a502a2b37bfb25ca9473fc7cd81c5e5c20
-- id: doi:10.48550/arXiv.2206.13274 -
+- id: doi:10.48550/arXiv.2206.13274
   title: 'Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data'
   authors:
   - Julian Lemmel
@@ -74,10 +74,10 @@
   - Johannes Scholz
   - Radu Grosu
   - Sophie A. Neubauer
-  publisher: ''
+  publisher: arXiv
   date: '2022-01-01'
-  link: https://doi.org/10.48550/arxiv.2206.13274 -
-  _cache: 70d420dc486770868d0f3bb88186f4141a3ab8e93270a2923175ffa73e06f0d7
+  link: https://doi.org/grq4sb
+  _cache: ae275231a55a23f865d9942e7aa69f8294f3d08a00e9532b76c003e5d0aacd58
 - id: doi:10.3390/socsci11080356
   title: A Literature Review on the Usage of Agent-Based Modelling to Study Policies
     for Managing International Migration
