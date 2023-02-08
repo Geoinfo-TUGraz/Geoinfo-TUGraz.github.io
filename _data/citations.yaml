@@ -100,6 +100,14 @@
   date: ''
   link: https://conference.cloudearthi.com/wp-content/uploads/2022/05/ID_8.pdf
   _cache: 495d8e634cbab57aa31f24bbf2631a34e05a281d4cb6c135884d88dd8e45f81a
+- title: "Geospatial Artificial Intelligence und Geoinformatik: neue Paradigmen in\
+    \ der r\xE4umlichen Analyse"
+  authors:
+  - Johannes Scholz
+  publisher: GeoNews
+  date: ''
+  link: https://www.rmdatagroup.com/aktuelles/geonews/geonews-2-2022/#c15759
+  _cache: bcb72c13db607f6d0f32081d5a82f2e15fa8baacdbfe0f3e5795b008ea48e6e2
 - id: doi:10.5194/agile-giss-3-55-2022
   title: Off-Road Navigation Maps for Robotic Platforms using Convolutional Neural
     Networks
