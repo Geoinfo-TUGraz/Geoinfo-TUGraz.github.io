@@ -100,3 +100,48 @@
 
 #An Approach to Decompose and Evaluate a Complex GIS-Application Design to a Simple, Lightweight, User-Centered App-Based Design Using User Experience Evaluation
 - id: doi:10.3390/ijgi9090505
+
+##2019
+
+#SEMANTIC ENRICHMENT of ROUTING ENGINES USING LINKED DATA: A CASE STUDY USING GRAPHHOPPER
+-id: doi:    10.5194/isprs-archives-XLII-4-W14-111-2019
+
+#Towards National SDI in Pakistan: The Challenges
+- title: 'Towards National SDI in Pakistan: The Challenges'
+  authors:
+    - Rizwan Bulbul
+    - Muhammad Sheraz Ahsan
+    - Johum Fatimah Mirza
+  publisher: Federation of International Surveyors
+  date: '2019-02-28'
+  link: https://www.fig.net/resources/proceedings/fig_proceedings/fig2019/papers/ts05c/TS05C_bulbul_ahsan_et_al_9815.pdf
+  
+#A Linked Data Approach for Semantically enriched Information Sharing to enable Cooperation among Actors of the Forest-based Supply Chain
+- title: 'A Linked Data Approach for Semantically enriched Information Sharing to enable Cooperation among Actors of the Forest-based Supply Chain'
+  authors:
+    - Johannes Scholz
+  publisher: Abstract von 18th Symposium on Systems Analysis in Forest Resources, Puerto Varas, Chile.
+  date: '2019-01-01'
+  
+# An Approach to enrich the Optimization of the Forest-based Supply Chain by Semantics
+- title: 'An Approach to enrich the Optimization of the Forest-based Supply Chain by Semantics'
+  authors:
+    - Johannes Scholz
+    - Alexandra S. Marques
+  publisher: EURO 2019 - Abstract Book 
+  date: '2019-01-01'
+  
+# A spatial Agent-based Simulation of the Wood Chips Market: Comparing six different Simulation Scenarios for the Province of Carinthia, Austria
+- title: 'A spatial Agent-based Simulation of the Wood Chips Market: Comparing six different Simulation Scenarios for the Province of Carinthia, Austria'
+  authors:
+    - Johannes Scholz
+    - Peter Mandl
+    - Florian Breitwieser
+  publisher: Abstract von 18th Symposium on Systems Analysis in Forest Resources, Puerto Varas, Chile.
+  date: '2019-01-01'
+
+#A Spatial Data Analysis Approach for Public Policy Simulation in Thermal Energy Transition Scenarios
+- id: doi:10.1007/978-3-658-27495-5_8
+
+#Role-Tailored Map Dashboards - A New Approach for Enhancing the Forest-based Supply Chain
+- id: doi:10.3390/ijgi8010041
