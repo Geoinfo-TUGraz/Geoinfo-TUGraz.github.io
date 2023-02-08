@@ -34,5 +34,5 @@ Duration of the project: 01 November 2022 - 31 October 2024
   width="200px"
 %}
 This is funded by 
-* Österreichische Forschungsförderungsgesellschaft mbH, FFG (Österreich) within the programme "AI for Green 2021"
+* Österreichische Forschungsförderungsgesellschaft mbH, FFG (Österreich) within the programme "AI for Green 2021" (Project Number FO999892237)
 
