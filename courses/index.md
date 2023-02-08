@@ -31,6 +31,7 @@ nav:
 | Selected Topics GIScience and Technology  |  VO   |  2   |  [522.349](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=336373)   |
 | Selected Topics GIScience and Technology  |  UE   |  1   |  [522.350](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=337327)   |
 | "Geoinformatik" FS                        |  PV   |  2   |  [522.393](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=338369)   |
+| Selected Topics of Geospatial Technologies (Advanced Software) | VU | 2 | [GST.416.UF](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=339402) |
 
 ## Summer Semester
 
