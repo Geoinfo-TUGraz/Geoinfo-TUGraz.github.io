@@ -304,6 +304,25 @@
     Puerto Varas, Chile.
   date: '2019-01-01'
   _cache: a365f619580a9fbf1f4f08159b9917cb2f5343d554eff2cc1f5ec516b21949b5
+- title: An Approach to enrich the Optimization of the Forest-based Supply Chain by
+    Semantics
+  authors:
+  - Johannes Scholz
+  - Alexandra S. Marques
+  publisher: EURO 2019 - Abstract Book
+  date: '2019-01-01'
+  _cache: 802d71f25c99d51cc4f682f33ca46d2cc3680e909a361285533a55cf3afd459a
+- title: 'A spatial Agent-based Simulation of the Wood Chips Market: Comparing six
+    different Simulation Scenarios for the Province of Carinthia, Austria'
+  authors:
+  - Johannes Scholz
+  - Peter Mandl
+  - Florian Breitwieser
+  publisher: Abstract von 18th Symposium on Systems Analysis in Forest Resources,
+    Puerto Varas, Chile.
+  date: '2019-01-01'
+  link: null
+  _cache: 12cf548fda5662291a2887db9b01912efbb2187189a7b1d79102102d1686e144
 - id: doi:10.1007/978-3-658-27495-5_8
   title: A Spatial Data Analysis Approach for Public Policy Simulation in Thermal
     Energy Transition Scenarios
