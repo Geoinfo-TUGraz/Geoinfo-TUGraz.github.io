@@ -1,4 +1,15 @@
-# Courses
+---
+title: Courses
+nav:
+  order: 2
+  tooltip: Available courses of the research group
+---
+
+# <i class="fas fa-tools"></i>Courses
+
+{% include search-info.html %}
+
+{% include section.html %}
 
 ## Winter Semester
 
