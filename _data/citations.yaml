@@ -90,6 +90,14 @@
   date: '2022-08-09'
   link: https://doi.org/grq4zh
   _cache: e2a0a085a7f66eadc221d0e7be687f46b237761ddd7b2f7ca22dcf599198ab55
+- title: Some Publication Title
+  authors:
+  - Steve McQueen
+  - Lightning McQueen
+  publisher: bioRxiv
+  date: ''
+  link: biorxiv.org/1234
+  _cache: a5992d8dfa2d99d1f8971ad00d0813ad065197258aac65f60bc9df6875738254
 - id: doi:10.5194/agile-giss-3-55-2022
   title: Off-Road Navigation Maps for Robotic Platforms using Convolutional Neural
     Networks
