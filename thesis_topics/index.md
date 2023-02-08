@@ -1,30 +1,29 @@
 ---
-title: Blog
+title: BSc/MSc Thesis Topics
 nav:
-  order: 4
-  tooltip: Musings and miscellany
+  order: 2
+  tooltip: Open and completed bachelor and master thesis topics
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
-
-{% include section.html %}
+# <i class="fas fa-tools"></i>BSc/MSc Thesis Topics
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+{% include section.html %}
+
+## Open BSc Thesis Topics
+
+{% include list.html component="card" data="bsc_theses" %}
 
 {% include section.html %}
 
-<!--
-## News
 
-Twitter embeds from https://publish.twitter.com/
+## Open MSc Thesis Topics
 
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw">Tweets by GreeneScientist</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
+{% include list.html component="card" data="msc_theses"  %}
 
-<a href="https://twitter.com/GreeneScientist?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/intent/tweet?screen_name=GreeneScientist&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @GreeneScientist</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-{:.center}
+{% include section.html %}
 
--->
+## Completed Theses
+
+{% include list.html component="card" data="completed_theses"  style="small" %}
