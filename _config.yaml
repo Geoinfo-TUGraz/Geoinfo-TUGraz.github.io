@@ -4,8 +4,8 @@
 title: RG Geoinformation @ TU Graz
 description: Website of the Research Group Geoinformation, Institute of Geodesy, Graz University of Technology.
 logo: images/geoinformation_logo.png
-header: images/background.jpg
-footer: images/background.jpg
+header: images/background_new.jpg
+footer: images/background_new.jpg
 baseurl: ""
 
 # site social media and other links
