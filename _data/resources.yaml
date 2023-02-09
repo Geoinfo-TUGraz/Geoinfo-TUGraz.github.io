@@ -1,0 +1,32 @@
+- title: PostGIS Documentation (v3.3)
+  group: learning
+  image: 
+  link: https://postgis.net/docs/manual-3.3/
+  description: Documentation of the PostGIS extension for PostgreSQL Databases, includes information about installation, data management, spatial queries, ...
+
+- title: Geographical information science
+  group: papers
+  image: 
+  link: https://discovery.ucl.ac.uk/id/eprint/10053533/3/Longley_version%202.0_Manfred%20geocomp_PAL.pdf
+  description: Fundamental paper about GIScience
+  tags:
+    - GIScience
+    - Geoinformatics
+
+- title: QGIS
+  group: software
+  image: 
+  link: https://www.qgis.org/de/site/
+  description: Download of the open-source GIS "QGIS"
+  tags:
+    - GIS
+    
+
+- title: PostGIS in Action
+  group: books
+  image: 
+  link: 
+  description: Introduction to spatial databases and PostGIS
+  tags:
+    - PostGIS
+    - Spatial Databases
