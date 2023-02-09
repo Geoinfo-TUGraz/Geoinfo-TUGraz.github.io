@@ -6,7 +6,7 @@ Our energy system is undergoing rapid change. New technologies and opportunities
 
 {%
   include figure.html
-  image="images/ABM4Energy_cropped.png"
+  image="images/projects/ABM4ET/ABM4ET.png"
   caption="(c) GISolutions"
 %}
 
@@ -18,7 +18,7 @@ Duration of the project: 01 November 2022 - 31 October 2024
 ### Partners
 {%
   include figure.html
-  image="images/partners.png"
+  image="images/projects/ABM4ET/partners.png"
 %}
 
 * AEE INTEC GmbH
