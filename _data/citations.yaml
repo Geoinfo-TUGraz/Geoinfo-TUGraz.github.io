@@ -180,7 +180,8 @@
   publisher: Advances in Service and Industrial Robotics
   date: '2022-01-01'
   link: https://doi.org/grq4zp
-  _cache: 97b805deb9b29d2daa852bdef1ea11c7dbf0cf30a299288b8491c817577f337b
+  image: images/papers/01_amadee_20.jpg
+  _cache: bff3a4c648c49be51a854368503d7c1856d1d402553a1c985881250615ee1185
 - id: doi:10.5194/agile-giss-3-48-2022
   title: 'The Intersection between GIScience and History: an Overview of an Emerging
     Scientific Field'
@@ -211,7 +212,8 @@
   publisher: Spatial Data Science Symposium 2021 (online)
   date: '2021-01-01'
   link: https://doi.org/grq4zs
-  _cache: ba39c2a5bdf085278f9c6d59b4d0cfbc1f431d1af3081917ef06d29283448543
+  image: images/papers/06_supply_chain_kg.png
+  _cache: 9e67cca73c929b9a032ca39f3cd13c38d56c2e0e16b4ba848e459a146b325b64
 - id: doi:10.25436/E23W2G
   title: Eco-friendly Routing based on real-time Air-quality Sensor Data from Vehicles
   authors:
@@ -230,7 +232,8 @@
   publisher: Spatial Data Science Symposium 2021 (online)
   date: '2021-01-01'
   link: https://doi.org/grq4zv
-  _cache: 7935b978da1f20a31ee21b40877f38333658ee80dc0860f43107b9e38a9697ef
+  image: images/papers/03_trace_data.png
+  _cache: 237cdcc3a017d4623740379adb7278e542aa630e7fdc3b24fed6f078cc334140
 - id: doi:10.3390/ijgi9110681
   title: Evaluating Geo-Tagged Twitter Data to Analyze Tourist Flows in Styria, Austria
   authors:
@@ -239,7 +242,8 @@
   publisher: ISPRS International Journal of Geo-Information
   date: '2020-11-15'
   link: https://doi.org/grq5fg
-  _cache: caed70deb0313f2c91f7b472c8c31529fe12280dbdb954acbf4e0df30b56bfd0
+  image: images/papers/05_knowledge_discovery_from_geotext.png
+  _cache: a9f890cdae978c9ad7a967efff52dc4f12963c4d6aae24ddeb4a458cdee768eb
 - id: doi:10.1109/ISMAR-Adjunct51615.2020.00093
   title: Merging Geospatial Technologies with Cross Reality in the context of smart
     manufacturing systems
@@ -265,7 +269,8 @@
   publisher: Lecture Notes in Geoinformation and Cartography
   date: '2019-04-16'
   link: https://doi.org/grq5fk
-  _cache: 7a5836a3887233236d307f130e7837b8a92905e228a887c3a77d5509d1a67323
+  image: images/papers/04_indoor_geography.jpg
+  _cache: 41b9c8a45ce12a70b18667026a14f83f6bc908eb5db4e7bfe68bdfbb510857c0
 - id: doi:10.3390/ijgi9090505
   title: An Approach to Decompose and Evaluate a Complex GIS-Application Design to
     a Simple, Lightweight, User-Centered App-Based Design Using User Experience Evaluation
@@ -333,7 +338,8 @@
   publisher: "Data Science \u2013 Analytics and Applications"
   date: '2019-01-01'
   link: https://doi.org/grq77f
-  _cache: 082f7d3452118ba636e82581b0dba920ee203c943c44b3acd53b88c30d05b668
+  image: images/papers/02_heating_types_gleisdorf.png
+  _cache: aed3b763f4f034a7571fbe1b88dafa7692c6bdbd128ae10b92dc758b673a9647
 - id: doi:10.3390/ijgi8010041
   title: "Role-Tailored Map Dashboards\u2014A New Approach for Enhancing the Forest-based\
     \ Supply Chain"
