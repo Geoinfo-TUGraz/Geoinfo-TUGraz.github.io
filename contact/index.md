@@ -67,7 +67,3 @@ Austria
 %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
-
-{% include section.html %}
-
-### <i class="fas fa-mail-bulk"></i>Twitter Feed
