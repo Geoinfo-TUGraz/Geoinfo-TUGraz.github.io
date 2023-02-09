@@ -13,7 +13,7 @@ nav:
 
 ## Learning Resources
 
-{% include list.html component="card" data="resources" filters="group: learning" %}
+{% include list.html component="card" data="resources" filters="group: learning" style="small" %}
 
 {% include section.html %}
 
