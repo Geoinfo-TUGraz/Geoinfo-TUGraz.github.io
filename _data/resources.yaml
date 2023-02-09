@@ -8,7 +8,7 @@
   group: papers
   image: 
   link: https://discovery.ucl.ac.uk/id/eprint/10053533/3/Longley_version%202.0_Manfred%20geocomp_PAL.pdf
-  description: Fundamental paper about GIScience by Michael Goodchild (Goodchild, M. F. (1992). Geographical information science. International journal of geographical information systems, 6(1), 31-45.)
+  description: Fundamental paper about GIScience by Michael Goodchild (1992)
   tags:
     - GIScience
     - Geoinformatics
