@@ -24,6 +24,8 @@
 <div class="citation" data-style="{{ include.style }}">
   {%- assign id = citation.id | default: "" -%}
   {%- assign link = citation.link | default: "" -%}
+  
+<!-- Remove comment to enable pictures for the citations
   {%- assign image = citation.image | default: "" -%}
   {%- if rich -%}
     <div class="citation_image">
@@ -38,7 +40,8 @@
       </a>
     </div>
   {%- endif -%}
-
+-->
+  
   <div class="citation_text">
     {%- assign title = citation.title | default: "" -%}
     <div class="citation_title">
