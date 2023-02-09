@@ -71,6 +71,7 @@
 
 # The AMADEE-20 Robotic Exploration Cascade: An Experience Report
 - id: doi:10.1007/978-3-031-04870-8_56
+  image: images/papers/01_amadee_20.jpg
 
 # The Intersection between GIScience and History: an Overview of an Emerging Scientific Field
 - id: doi:10.5194/agile-giss-3-48-2022
@@ -81,22 +82,26 @@
 
 #A Prototypical Geospatial Knowledge Graph And Spatio-Temporal Question Answering for Supply Chain Visibility
 - id: doi:10.25436/E2JS3V
+  image: images/papers/06_supply_chain_kg.png
 
 #Eco-friendly Routing based on real-time Air-quality Sensor Data from Vehicles
 - id: doi:10.25436/E23W2G
 
 #Spatial Linked Data Approach for Trace Data in Digital Humanities
 - id: doi:10.25436/E2T882
+  image: images/papers/03_trace_data.png
 
 ##2020
 #Evaluating Geo-Tagged Twitter Data to Analyze Tourist Flows in Styria, Austria
 - id: doi:10.3390/ijgi9110681
+  image: images/papers/05_knowledge_discovery_from_geotext.png
 
 #Merging Geospatial Technologies with Cross Reality in the Context of Smart Manufacturing Systems
 - id: doi:10.1109/ISMAR-Adjunct51615.2020.00093
 
 #Agent-Based Simulation for Indoor Manufacturing Environments---Evaluating the Effects of Spatialization
 - id: doi:10.1007/978-3-030-14745-7_17
+  image: images/papers/04_indoor_geography.jpg
 
 #An Approach to Decompose and Evaluate a Complex GIS-Application Design to a Simple, Lightweight, User-Centered App-Based Design Using User Experience Evaluation
 - id: doi:10.3390/ijgi9090505
@@ -143,6 +148,7 @@
 
 #A Spatial Data Analysis Approach for Public Policy Simulation in Thermal Energy Transition Scenarios
 - id: doi:10.1007/978-3-658-27495-5_8
+  image: images/papers/02_heating_types_gleisdorf.png
 
 #Role-Tailored Map Dashboards - A New Approach for Enhancing the Forest-based Supply Chain
 - id: doi:10.3390/ijgi8010041
