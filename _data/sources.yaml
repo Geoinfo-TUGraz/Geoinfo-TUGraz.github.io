@@ -1,6 +1,7 @@
 ## 2023
 # Tourist Flow Simulation in GAMA Using Historical Data Parameters
 - id: doi:10.1007/978-3-031-25752-0_27
+  image: images/papers/07_tourist_flow_simulation-png
   tags: 
     - ABM
     - Tourism
@@ -25,6 +26,7 @@
   
 # How Many Equations of Motion Describe a Moving Human?
 - id: arxiv:2207.14331v2
+  image: images/papers/09_how_many_euqations_of_motion.png
   authors:
       - Gabriele De Luca
       - Thomas J. Lampoltshammer
@@ -32,9 +34,11 @@
 
 # Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data
 - id: doi:10.48550/arXiv.2206.13274
+  image: images/papers/14_deep_learning_vs.png
 
 # A Literature Review on the Usage of Agent-Based Modelling to Study Policies for Managing International Migration
 - id: doi:10.3390/socsci11080356
+  image: images/papers/08_abm4migration.png
 
 # Data-driven Tourism for Sustainability: The Role of Transdisciplinarity and Computational Social Sciences in Tourist Studies Programs
 - title: 'Data-driven Tourism for Sustainability: The Role of Transdisciplinarity and Computational Social Sciences in Tourist Studies Programs'
@@ -56,15 +60,18 @@
   
 # Off-Road Navigation Maps for Robotic Platforms using Convolutional Neural Networks
 - id: doi:10.5194/agile-giss-3-55-2022
+  image: images/papers/11_off_road_navigation.png
 
 #Optimising Antenna Positioning for Maximum Coverage: The Case Study of Cattle Tracking in Austrian Alps Using Long Range (LoRa) Based Monitoring System
 - id: doi:10.1007/978-3-031-06245-2_6
+  image: images/papers/13_optimising_antenna_positioning.png
 
 # Platial mobility: expanding place and mobility in GIS via platio-temporal representations and the mobilities paradigm
 - id: doi:10.1007/s10109-022-00389-3
 
 # Point Patterns of Historical Landmarks in the Valley of Mexico
 - id: doi:10.5194/agile-giss-3-33-2022
+  image: images/papers/12_point_patterns_of_landmarks.png
 
 # Research Directions for Merging Geospatial Technologies with Smart Manufacturing Systems
 - id: doi:10.1520/SSMS20220004
@@ -75,10 +82,12 @@
 
 # The Intersection between GIScience and History: an Overview of an Emerging Scientific Field
 - id: doi:10.5194/agile-giss-3-48-2022
+  image: images/papers/10_the_intersection_bet_GIScience.png
 
 ## 2021
 # Simulating the forest fuel market as a socio‐ecological system with spatial agent‐based methods: A case study in Carinthia, Austria
 - id: doi:10.1111/nrm.12291
+  image: images/papers/16_simulating_forst_fuel_market.png
 
 #A Prototypical Geospatial Knowledge Graph And Spatio-Temporal Question Answering for Supply Chain Visibility
 - id: doi:10.25436/E2JS3V
@@ -86,6 +95,7 @@
 
 #Eco-friendly Routing based on real-time Air-quality Sensor Data from Vehicles
 - id: doi:10.25436/E23W2G
+  image: images/papers/15_eco_friendly_routing.png
 
 #Spatial Linked Data Approach for Trace Data in Digital Humanities
 - id: doi:10.25436/E2T882
@@ -105,11 +115,13 @@
 
 #An Approach to Decompose and Evaluate a Complex GIS-Application Design to a Simple, Lightweight, User-Centered App-Based Design Using User Experience Evaluation
 - id: doi:10.3390/ijgi9090505
+  image: images/papers/17_an_approach_to_decompose.png
 
 ##2019
 
 #SEMANTIC ENRICHMENT of ROUTING ENGINES USING LINKED DATA: A CASE STUDY USING GRAPHHOPPER
 - id: doi:10.5194/isprs-archives-XLII-4-W14-111-2019
+  image: images/papers/18_semantic_enrichment.png
 
 #Towards National SDI in Pakistan: The Challenges
 - title: 'Towards National SDI in Pakistan: The Challenges'
@@ -152,3 +164,4 @@
 
 #Role-Tailored Map Dashboards - A New Approach for Enhancing the Forest-based Supply Chain
 - id: doi:10.3390/ijgi8010041
+  image: images/papers/19_role-tailored_map_dashboards.png
