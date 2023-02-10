@@ -1,7 +1,7 @@
 ## 2023
 # Tourist Flow Simulation in GAMA Using Historical Data Parameters
 - id: doi:10.1007/978-3-031-25752-0_27
-  image: images/papers/07_tourist_flow_simulation-png
+  image: images/papers/07_tourist_flow_simulation.png
   tags: 
     - ABM
     - Tourism
@@ -26,7 +26,7 @@
   
 # How Many Equations of Motion Describe a Moving Human?
 - id: arxiv:2207.14331v2
-  image: images/papers/09_how_many_euqations_of_motion.png
+  image: images/papers/09_how_many_equations_of_motion.png
   authors:
       - Gabriele De Luca
       - Thomas J. Lampoltshammer
