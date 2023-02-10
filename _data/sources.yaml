@@ -31,6 +31,12 @@
       - Gabriele De Luca
       - Thomas J. Lampoltshammer
       - Johannes Scholz
+  tags:
+      - kinematic
+      - human motion
+      - trajectories
+      - social physics
+      - mobility
 
 # Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data
 - id: doi:10.48550/arXiv.2206.13274
@@ -39,6 +45,11 @@
 # A Literature Review on the Usage of Agent-Based Modelling to Study Policies for Managing International Migration
 - id: doi:10.3390/socsci11080356
   image: images/papers/08_abm4migration.png
+  tags:
+    - agent-based modeling
+    - international migration
+    - migration policies
+    - system dynamics
 
 # Data-driven Tourism for Sustainability: The Role of Transdisciplinarity and Computational Social Sciences in Tourist Studies Programs
 - title: 'Data-driven Tourism for Sustainability: The Role of Transdisciplinarity and Computational Social Sciences in Tourist Studies Programs'
@@ -61,17 +72,40 @@
 # Off-Road Navigation Maps for Robotic Platforms using Convolutional Neural Networks
 - id: doi:10.5194/agile-giss-3-55-2022
   image: images/papers/11_off_road_navigation.png
+  tags:
+      - remote sensing
+      - deep learning
+      - robotics
+      - GeoAI
 
 #Optimising Antenna Positioning for Maximum Coverage: The Case Study of Cattle Tracking in Austrian Alps Using Long Range (LoRa) Based Monitoring System
 - id: doi:10.1007/978-3-031-06245-2_6
   image: images/papers/13_optimising_antenna_positioning.png
+  tags:
+      - Antenna coverage location problem
+      - Spatial optimization
+      - Viewshed analysis
+      - Cattle mobility
+      - LoRaWAN
 
 # Platial mobility: expanding place and mobility in GIS via platio-temporal representations and the mobilities paradigm
 - id: doi:10.1007/s10109-022-00389-3
+  tags:
+      - Place in GIScience
+      - Platial modeling
+      - Platial mobility
+      - Platial displacements
+      - Platio-temporal mobilities
 
 # Point Patterns of Historical Landmarks in the Valley of Mexico
 - id: doi:10.5194/agile-giss-3-33-2022
   image: images/papers/12_point_patterns_of_landmarks.png
+  tags:
+      - Point Pattern Analysis
+      - Point Process
+      - Historical Monuments
+      - Mexico VAlley
+      - GeoHumanities
 
 # Research Directions for Merging Geospatial Technologies with Smart Manufacturing Systems
 - id: doi:10.1520/SSMS20220004
@@ -79,10 +113,20 @@
 # The AMADEE-20 Robotic Exploration Cascade: An Experience Report
 - id: doi:10.1007/978-3-031-04870-8_56
   image: images/papers/01_amadee_20.jpg
+  tags:
+      - Field robotics
+      - Space exploration
+      - Rebot navigation
 
 # The Intersection between GIScience and History: an Overview of an Emerging Scientific Field
 - id: doi:10.5194/agile-giss-3-48-2022
   image: images/papers/10_the_intersection_bet_GIScience.png
+  tags:
+      - GIS
+      - history
+      - digital humanities
+      - historical GIS
+      - literature review
 
 ## 2021
 # Simulating the forest fuel market as a socio‐ecological system with spatial agent‐based methods: A case study in Carinthia, Austria
@@ -92,6 +136,11 @@
 #A Prototypical Geospatial Knowledge Graph And Spatio-Temporal Question Answering for Supply Chain Visibility
 - id: doi:10.25436/E2JS3V
   image: images/papers/06_supply_chain_kg.png
+  tags: 
+      - geospatial knowledge graph
+      - geospatial semantics
+      - spatio-temporal trajectory
+      - supply chain visibility
 
 #Eco-friendly Routing based on real-time Air-quality Sensor Data from Vehicles
 - id: doi:10.25436/E23W2G
@@ -100,28 +149,63 @@
 #Spatial Linked Data Approach for Trace Data in Digital Humanities
 - id: doi:10.25436/E2T882
   image: images/papers/03_trace_data.png
+  tags:
+      - Semantic Web
+      - Linked Data
+      - Knowledge Graph
+      - Trace Data
 
 ##2020
 #Evaluating Geo-Tagged Twitter Data to Analyze Tourist Flows in Styria, Austria
 - id: doi:10.3390/ijgi9110681
   image: images/papers/05_knowledge_discovery_from_geotext.png
+  tags:
+      - Twitter
+      - Crowdsourcing
+      - Spatial Analysis
+      - Sentiment Analysis
+      - Tourism
+      - Styria
 
 #Merging Geospatial Technologies with Cross Reality in the Context of Smart Manufacturing Systems
 - id: doi:10.1109/ISMAR-Adjunct51615.2020.00093
+  tags:
+      - Digitization
+      - Digital Twin
+      - GIS
+      - XR
 
 #Agent-Based Simulation for Indoor Manufacturing Environments---Evaluating the Effects of Spatialization
 - id: doi:10.1007/978-3-030-14745-7_17
   image: images/papers/04_indoor_geography.jpg
+  tags: 
+      - Indoor geography
+      - Smart manufacturing
+      - Industry 4.0
+      - Agent-based modeling
 
 #An Approach to Decompose and Evaluate a Complex GIS-Application Design to a Simple, Lightweight, User-Centered App-Based Design Using User Experience Evaluation
 - id: doi:10.3390/ijgi9090505
   image: images/papers/17_an_approach_to_decompose.png
+  tags:
+      - user experience evaluation
+      - app-centered approach
+      - web application
+      - GIS
+      - user-centered design
 
 ##2019
 
 #SEMANTIC ENRICHMENT of ROUTING ENGINES USING LINKED DATA: A CASE STUDY USING GRAPHHOPPER
 - id: doi:10.5194/isprs-archives-XLII-4-W14-111-2019
   image: images/papers/18_semantic_enrichment.png
+  tags:
+      - Open Source
+      - Vehicle Routing
+      - Linked Data
+      - Semantic Enrichment
+      - Semantic Web
+      - GIS
 
 #Towards National SDI in Pakistan: The Challenges
 - title: 'Towards National SDI in Pakistan: The Challenges'
@@ -161,7 +245,17 @@
 #A Spatial Data Analysis Approach for Public Policy Simulation in Thermal Energy Transition Scenarios
 - id: doi:10.1007/978-3-658-27495-5_8
   image: images/papers/02_heating_types_gleisdorf.png
+  tags:
+    - Agent-based Simulation
+    - Thermal energy transition
+    - Spatial information
 
 #Role-Tailored Map Dashboards - A New Approach for Enhancing the Forest-based Supply Chain
 - id: doi:10.3390/ijgi8010041
   image: images/papers/19_role-tailored_map_dashboards.png
+  tags:
+      - digital forest
+      - map dashboard
+      - forest-based supply chain
+      - web mapping apps
+      - field study
