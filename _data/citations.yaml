@@ -11,12 +11,12 @@
   publisher: Information and Communication Technologies in Tourism 2023
   date: '2023-01-01'
   link: https://doi.org/grq4r8
-  image: images/papers/07_tourist_flow_simulation-png
+  image: images/papers/07_tourist_flow_simulation.png
   tags:
   - ABM
   - Tourism
   - Geo-simulation
-  _cache: 75f4ae6a0eac485308f35734d9ae78b969fe43f089483db278af42bc1a57c8e8
+  _cache: 244241e12be692d7602465d1b55908a26c423aa7a040f08cf00a47b9192c931a
 - id: doi:10.5194/ica-abs-5-68-2022
   title: Towards an intuitive User Interface and Geographic Question Answering for
     an existing spatial Linked Data Endpoint for Dialect Data
@@ -63,8 +63,8 @@
   publisher: arXiv
   date: '2022-07-28'
   link: https://arxiv.org/abs/2207.14331v2
-  image: images/papers/09_how_many_euqations_of_motion.png
-  _cache: c5595cfb6e7f096ee1544e9c82d8b07d3867cefa6857f1767025e41e6ce61047
+  image: images/papers/09_how_many_equations_of_motion.png
+  _cache: 4b9c3c5f6bde62a2d8d70a14478f7de1a3c16c7b5df933b2d07b7fc433f3bd64
 - id: doi:10.48550/arXiv.2206.13274
   title: 'Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data'
   authors:
