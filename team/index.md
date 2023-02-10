@@ -7,7 +7,6 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-<!--Comment / List with team members
 {%
   include list.html
   data="members"
@@ -27,7 +26,6 @@ nav:
   filters="role: programmer"
 %}
 {:.center}
--->
 
 {% include section.html %}
 
