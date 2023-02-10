@@ -11,11 +11,12 @@
   publisher: Information and Communication Technologies in Tourism 2023
   date: '2023-01-01'
   link: https://doi.org/grq4r8
+  image: images/papers/07_tourist_flow_simulation-png
   tags:
   - ABM
   - Tourism
   - Geo-simulation
-  _cache: 4677724a2d829d84a0c0885817a3079cf2ec02155b3ab150337401a69220f611
+  _cache: 75f4ae6a0eac485308f35734d9ae78b969fe43f089483db278af42bc1a57c8e8
 - id: doi:10.5194/ica-abs-5-68-2022
   title: Towards an intuitive User Interface and Geographic Question Answering for
     an existing spatial Linked Data Endpoint for Dialect Data
@@ -62,7 +63,8 @@
   publisher: arXiv
   date: '2022-07-28'
   link: https://arxiv.org/abs/2207.14331v2
-  _cache: 568c1d601c8a3766956c20fc5e2361a502a2b37bfb25ca9473fc7cd81c5e5c20
+  image: images/papers/09_how_many_euqations_of_motion.png
+  _cache: c5595cfb6e7f096ee1544e9c82d8b07d3867cefa6857f1767025e41e6ce61047
 - id: doi:10.48550/arXiv.2206.13274
   title: 'Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data'
   authors:
@@ -77,7 +79,8 @@
   publisher: arXiv
   date: '2022-01-01'
   link: https://doi.org/grq4sb
-  _cache: ae275231a55a23f865d9942e7aa69f8294f3d08a00e9532b76c003e5d0aacd58
+  image: images/papers/14_deep_learning_vs.png
+  _cache: 1fcc13d543c8608c4260365d791df98167a8ad5e999b3f1506fab71917f4a70e
 - id: doi:10.3390/socsci11080356
   title: A Literature Review on the Usage of Agent-Based Modelling to Study Policies
     for Managing International Migration
@@ -89,7 +92,8 @@
   publisher: Social Sciences
   date: '2022-08-09'
   link: https://doi.org/grq4zh
-  _cache: e2a0a085a7f66eadc221d0e7be687f46b237761ddd7b2f7ca22dcf599198ab55
+  image: images/papers/08_abm4migration.png
+  _cache: 8a6c9bbf7663bbd748caf1244b4b4e4cbdbba500cc348cf400323ed8a8f1d06a
 - title: 'Data-driven Tourism for Sustainability: The Role of Transdisciplinarity
     and Computational Social Sciences in Tourist Studies Programs'
   authors:
@@ -120,7 +124,8 @@
   publisher: 'AGILE: GIScience Series'
   date: '2022-06-11'
   link: https://doi.org/grq4zj
-  _cache: cf6414ee57aabd1d15fe7e5bb1dba9f020ef260912e806e1591da3a4f8ffbb21
+  image: images/papers/11_off_road_navigation.png
+  _cache: 4912cbf028564cec012349d24e7227d2d058d370b51a9fcbb69763dda8caa0d6
 - id: doi:10.1007/978-3-031-06245-2_6
   title: "Optimising Antenna Positioning for\_Maximum Coverage: The Case Study of\_\
     Cattle Tracking in\_Austrian Alps Using Long Range (LoRa) Based Monitoring System"
@@ -132,7 +137,8 @@
   publisher: Web and Wireless Geographical Information Systems
   date: '2022-01-01'
   link: https://doi.org/grqp9g
-  _cache: 97f4bfe7ba264e26de85f0d1398e8deaf16439c935ec5108b8df5a7ff9ced733
+  image: images/papers/13_optimising_antenna_positioning.png
+  _cache: ab425f69c705b87e0919c09f2667f67eea9b0122f7807bc660e344ef9aa45bcb
 - id: doi:10.1007/s10109-022-00389-3
   title: 'Platial mobility: expanding place and mobility in GIS via platio-temporal
     representations and the mobilities paradigm'
@@ -154,7 +160,8 @@
   publisher: 'AGILE: GIScience Series'
   date: '2022-06-10'
   link: https://doi.org/grq4zm
-  _cache: 45a26e04a8bf9a302866e296fbdccc631ed4bf11e7387e26a293222c4b3ff48a
+  image: images/papers/12_point_patterns_of_landmarks.png
+  _cache: f5cdfdba6e1940c02722ffbbd0f58227a4d60ce8e9da7cd0de73be4ae040a65f
 - id: doi:10.1520/SSMS20220004
   title: Research Directions for Merging Geospatial Technologies with Smart Manufacturing
     Systems
@@ -191,7 +198,8 @@
   publisher: 'AGILE: GIScience Series'
   date: '2022-06-11'
   link: https://doi.org/grq4zq
-  _cache: f13df385b09600483681a1166cfe550ab033290e6b780b468af224c5143f02d5
+  image: images/papers/10_the_intersection_bet_GIScience.png
+  _cache: 94096ea52336e845e9da24f58fc34d115276eccfca308f2c1f4d7d57e12b0e7e
 - id: doi:10.1111/nrm.12291
   title: "Simulating the forest fuel market as a socio\u2010ecological system with\
     \ spatial agent\u2010based methods: A case study in Carinthia, Austria"
@@ -202,7 +210,8 @@
   publisher: Natural Resource Modeling
   date: '2020-11-06'
   link: https://doi.org/gn86dt
-  _cache: eb841158baa7ea2e0334b4b9834a8308a5311f03b76698757e8e6dba7a443cb9
+  image: images/papers/16_simulating_forst_fuel_market.png
+  _cache: c3cc75c765d0e788f4b4d68dcc5be04e7c2dfae93e3782d90a969416aed217a6
 - id: doi:10.25436/E2JS3V
   title: A Prototypical Geospatial Knowledge Graph And Spatio-Temporal Question Answering
     for Supply Chain Visibility
@@ -223,7 +232,8 @@
     on Geographic Information Science. September 27-30
   date: '2021-01-01'
   link: https://doi.org/grq4zt
-  _cache: 725158066a6f69256a180be8fa1492b669768b52c968e16cc9bb2349c2873548
+  image: images/papers/15_eco_friendly_routing.png
+  _cache: 40d6ad3aba12d43d9c50b52cfea5bad50c4845358b9a1f210667c500c9d6f639
 - id: doi:10.25436/E2T882
   title: Spatial Linked Data Approach for Trace Data in Digital Humanities
   authors:
@@ -280,7 +290,8 @@
   publisher: ISPRS International Journal of Geo-Information
   date: '2020-08-23'
   link: https://doi.org/grq5fm
-  _cache: 107c6ffffb7d8fb2024c122477d2b8e8b83a22fae1fc5d062de949b3bcf40cf3
+  image: images/papers/17_an_approach_to_decompose.png
+  _cache: 1fa5a42ebffa59274d106b0a086494f390cb3d4d6593bf0eba609734c218ceb6
 - id: doi:10.5194/isprs-archives-XLII-4-W14-111-2019
   title: 'SEMANTIC ENRICHMENT OF ROUTING ENGINES USING LINKED DATA: A CASE STUDY USING
     GRAPHHOPPER'
@@ -291,7 +302,8 @@
     Spatial Information Sciences
   date: '2019-08-23'
   link: https://doi.org/grq77d
-  _cache: 138695536b0d40060dba4d0f973a9f0bd21bd38daee8c83bec6b6875c365b015
+  image: images/papers/18_semantic_enrichment.png
+  _cache: 3f19315e63e2f769b24bd07255b84298915531fe5e9e1316d74ac454eb832c3c
 - title: 'Towards National SDI in Pakistan: The Challenges'
   authors:
   - Rizwan Bulbul
@@ -352,4 +364,5 @@
   publisher: ISPRS International Journal of Geo-Information
   date: '2019-01-17'
   link: https://doi.org/grq77g
-  _cache: ec77587b8713bab5547e503d74a7771d3a76abf1d7c5359c71a49d9e344d542b
+  image: images/papers/19_role-tailored_map_dashboards.png
+  _cache: 19cf5e8c9aa5b64bd6a1e8af0a68cc77f193a26822e9baea7dd497a42386ab96
