@@ -64,7 +64,13 @@
   date: '2022-07-28'
   link: https://arxiv.org/abs/2207.14331v2
   image: images/papers/09_how_many_equations_of_motion.png
-  _cache: 4b9c3c5f6bde62a2d8d70a14478f7de1a3c16c7b5df933b2d07b7fc433f3bd64
+  tags:
+  - kinematic
+  - human motion
+  - trajectories
+  - social physics
+  - mobility
+  _cache: 9924a4dfe637deaecf8997e52f708d502019bbbc6a0ea6b526e9a01c28659c9f
 - id: doi:10.48550/arXiv.2206.13274
   title: 'Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data'
   authors:
@@ -93,7 +99,12 @@
   date: '2022-08-09'
   link: https://doi.org/grq4zh
   image: images/papers/08_abm4migration.png
-  _cache: 8a6c9bbf7663bbd748caf1244b4b4e4cbdbba500cc348cf400323ed8a8f1d06a
+  tags:
+  - agent-based modeling
+  - international migration
+  - migration policies
+  - system dynamics
+  _cache: e7211cfdb2f1662f84f8bd2e6a6423812fd29f06ed5ff358fc43a1852d836024
 - title: 'Data-driven Tourism for Sustainability: The Role of Transdisciplinarity
     and Computational Social Sciences in Tourist Studies Programs'
   authors:
@@ -125,7 +136,12 @@
   date: '2022-06-11'
   link: https://doi.org/grq4zj
   image: images/papers/11_off_road_navigation.png
-  _cache: 4912cbf028564cec012349d24e7227d2d058d370b51a9fcbb69763dda8caa0d6
+  tags:
+  - remote sensing
+  - deep learning
+  - robotics
+  - GeoAI
+  _cache: 6290ee971124fb2e3566ae76319e17a5f36dcb2e12dc7be645652d271199e2e8
 - id: doi:10.1007/978-3-031-06245-2_6
   title: "Optimising Antenna Positioning for\_Maximum Coverage: The Case Study of\_\
     Cattle Tracking in\_Austrian Alps Using Long Range (LoRa) Based Monitoring System"
@@ -138,7 +154,13 @@
   date: '2022-01-01'
   link: https://doi.org/grqp9g
   image: images/papers/13_optimising_antenna_positioning.png
-  _cache: ab425f69c705b87e0919c09f2667f67eea9b0122f7807bc660e344ef9aa45bcb
+  tags:
+  - Antenna coverage location problem
+  - Spatial optimization
+  - Viewshed analysis
+  - Cattle mobility
+  - LoRaWAN
+  _cache: 32a5b9f9946856384751c6d7aa80251fb9afc5ec940441f811aa4020ed2098ff
 - id: doi:10.1007/s10109-022-00389-3
   title: 'Platial mobility: expanding place and mobility in GIS via platio-temporal
     representations and the mobilities paradigm'
@@ -150,7 +172,13 @@
   publisher: Journal of Geographical Systems
   date: '2022-07-16'
   link: https://doi.org/grq4zk
-  _cache: 96dd81cf4513204424335124ba4a40afe90d12e388f3bf0ba928250f0ea06f34
+  tags:
+  - Place in GIScience
+  - Platial modeling
+  - Platial mobility
+  - Platial displacements
+  - Platio-temporal mobilities
+  _cache: 11aa68d913aebce959d957a9d3f02be600a40335264fef6708a7adc6e911e1cf
 - id: doi:10.5194/agile-giss-3-33-2022
   title: Point Patterns of Historical Landmarks in the Valley of Mexico
   authors:
@@ -161,7 +189,13 @@
   date: '2022-06-10'
   link: https://doi.org/grq4zm
   image: images/papers/12_point_patterns_of_landmarks.png
-  _cache: f5cdfdba6e1940c02722ffbbd0f58227a4d60ce8e9da7cd0de73be4ae040a65f
+  tags:
+  - Point Pattern Analysis
+  - Point Process
+  - Historical Monuments
+  - Mexico VAlley
+  - GeoHumanities
+  _cache: 3eba6af5db632bf15fc69efdad74b3f341e2aaa0cc32d6c3d427a7802f5ac9b1
 - id: doi:10.1520/SSMS20220004
   title: Research Directions for Merging Geospatial Technologies with Smart Manufacturing
     Systems
@@ -188,7 +222,11 @@
   date: '2022-01-01'
   link: https://doi.org/grq4zp
   image: images/papers/01_amadee_20.jpg
-  _cache: bff3a4c648c49be51a854368503d7c1856d1d402553a1c985881250615ee1185
+  tags:
+  - Field robotics
+  - Space exploration
+  - Rebot navigation
+  _cache: cbc9dddb804f0f1ce61ad262fafa2b4754b9f8295a60327972a0b67d82ab06ef
 - id: doi:10.5194/agile-giss-3-48-2022
   title: 'The Intersection between GIScience and History: an Overview of an Emerging
     Scientific Field'
@@ -199,7 +237,13 @@
   date: '2022-06-11'
   link: https://doi.org/grq4zq
   image: images/papers/10_the_intersection_bet_GIScience.png
-  _cache: 94096ea52336e845e9da24f58fc34d115276eccfca308f2c1f4d7d57e12b0e7e
+  tags:
+  - GIS
+  - history
+  - digital humanities
+  - historical GIS
+  - literature review
+  _cache: 66ed9b4ad4fef19b5de1df13fc84a47427ef41a519e154c812db913bfb91a014
 - id: doi:10.1111/nrm.12291
   title: "Simulating the forest fuel market as a socio\u2010ecological system with\
     \ spatial agent\u2010based methods: A case study in Carinthia, Austria"
@@ -222,7 +266,12 @@
   date: '2021-01-01'
   link: https://doi.org/grq4zs
   image: images/papers/06_supply_chain_kg.png
-  _cache: 9e67cca73c929b9a032ca39f3cd13c38d56c2e0e16b4ba848e459a146b325b64
+  tags:
+  - geospatial knowledge graph
+  - geospatial semantics
+  - spatio-temporal trajectory
+  - supply chain visibility
+  _cache: 8379b7c9170fddd37275c9ed8e345b449ac3a0314e6abef2733a93937bb9261a
 - id: doi:10.25436/E23W2G
   title: Eco-friendly Routing based on real-time Air-quality Sensor Data from Vehicles
   authors:
@@ -243,7 +292,12 @@
   date: '2021-01-01'
   link: https://doi.org/grq4zv
   image: images/papers/03_trace_data.png
-  _cache: 237cdcc3a017d4623740379adb7278e542aa630e7fdc3b24fed6f078cc334140
+  tags:
+  - Semantic Web
+  - Linked Data
+  - Knowledge Graph
+  - Trace Data
+  _cache: de238c3c23eebc1cb0cef906db12cd733542b0182defc045aebd88b6cde703d3
 - id: doi:10.3390/ijgi9110681
   title: Evaluating Geo-Tagged Twitter Data to Analyze Tourist Flows in Styria, Austria
   authors:
@@ -253,7 +307,14 @@
   date: '2020-11-15'
   link: https://doi.org/grq5fg
   image: images/papers/05_knowledge_discovery_from_geotext.png
-  _cache: a9f890cdae978c9ad7a967efff52dc4f12963c4d6aae24ddeb4a458cdee768eb
+  tags:
+  - Twitter
+  - Crowdsourcing
+  - Spatial Analysis
+  - Sentiment Analysis
+  - Tourism
+  - Styria
+  _cache: f6c6182d55d45e98c3fdff6f01c616e7fdb296cfc052f7b02eb9602eddaafa28
 - id: doi:10.1109/ISMAR-Adjunct51615.2020.00093
   title: Merging Geospatial Technologies with Cross Reality in the context of smart
     manufacturing systems
@@ -269,7 +330,12 @@
     (ISMAR-Adjunct)
   date: '2020-11-01'
   link: https://doi.org/grq5fj
-  _cache: b53198376416929d409154c7f8cb35ec2a5dac3f721c67f6a5a6342a87d13ab4
+  tags:
+  - Digitization
+  - Digital Twin
+  - GIS
+  - XR
+  _cache: a20aa4d436fa775d189fcb0c45edbdb6d87f3c2d164813de0e47600c6212eb94
 - id: doi:10.1007/978-3-030-14745-7_17
   title: "Agent-Based Simulation for Indoor Manufacturing Environments\u2014Evaluating\
     \ the Effects of Spatialization"
@@ -280,7 +346,12 @@
   date: '2019-04-16'
   link: https://doi.org/grq5fk
   image: images/papers/04_indoor_geography.jpg
-  _cache: 41b9c8a45ce12a70b18667026a14f83f6bc908eb5db4e7bfe68bdfbb510857c0
+  tags:
+  - Indoor geography
+  - Smart manufacturing
+  - Industry 4.0
+  - Agent-based modeling
+  _cache: 344dfac8624502fd7e316baf4d99a624f8f6c7a4a3264cc5231cb3d9c0ca6422
 - id: doi:10.3390/ijgi9090505
   title: An Approach to Decompose and Evaluate a Complex GIS-Application Design to
     a Simple, Lightweight, User-Centered App-Based Design Using User Experience Evaluation
@@ -291,7 +362,13 @@
   date: '2020-08-23'
   link: https://doi.org/grq5fm
   image: images/papers/17_an_approach_to_decompose.png
-  _cache: 1fa5a42ebffa59274d106b0a086494f390cb3d4d6593bf0eba609734c218ceb6
+  tags:
+  - user experience evaluation
+  - app-centered approach
+  - web application
+  - GIS
+  - user-centered design
+  _cache: 16150e71623e2562d505e4dd379377a63af1146047e697950f113bbb2b8b25b0
 - id: doi:10.5194/isprs-archives-XLII-4-W14-111-2019
   title: 'SEMANTIC ENRICHMENT OF ROUTING ENGINES USING LINKED DATA: A CASE STUDY USING
     GRAPHHOPPER'
@@ -303,7 +380,14 @@
   date: '2019-08-23'
   link: https://doi.org/grq77d
   image: images/papers/18_semantic_enrichment.png
-  _cache: 3f19315e63e2f769b24bd07255b84298915531fe5e9e1316d74ac454eb832c3c
+  tags:
+  - Open Source
+  - Vehicle Routing
+  - Linked Data
+  - Semantic Enrichment
+  - Semantic Web
+  - GIS
+  _cache: 4f9cd8de4eccb9b20ed64e9b05050c70229a62b04b9779b9200fe1577144c668
 - title: 'Towards National SDI in Pakistan: The Challenges'
   authors:
   - Rizwan Bulbul
@@ -351,7 +435,11 @@
   date: '2019-01-01'
   link: https://doi.org/grq77f
   image: images/papers/02_heating_types_gleisdorf.png
-  _cache: aed3b763f4f034a7571fbe1b88dafa7692c6bdbd128ae10b92dc758b673a9647
+  tags:
+  - Agent-based Simulation
+  - Thermal energy transition
+  - Spatial information
+  _cache: d6662f51f64648533bd3601e919f91c9a95655b2e07d7f7fe79fbabdf8126265
 - id: doi:10.3390/ijgi8010041
   title: "Role-Tailored Map Dashboards\u2014A New Approach for Enhancing the Forest-based\
     \ Supply Chain"
@@ -365,4 +453,10 @@
   date: '2019-01-17'
   link: https://doi.org/grq77g
   image: images/papers/19_role-tailored_map_dashboards.png
-  _cache: 19cf5e8c9aa5b64bd6a1e8af0a68cc77f193a26822e9baea7dd497a42386ab96
+  tags:
+  - digital forest
+  - map dashboard
+  - forest-based supply chain
+  - web mapping apps
+  - field study
+  _cache: bf78fe52877f5ac62d7375b0f768d5e6bc85faba52a317ec777c7b0f73deda4d
