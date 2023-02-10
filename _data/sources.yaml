@@ -3,9 +3,9 @@
 - id: doi:10.1007/978-3-031-25752-0_27
   image: images/papers/07_tourist_flow_simulation.png
   tags: 
-    - ABM
+    - Agent-based Modeling
     - Tourism
-    - Geo-simulation
+    - Geo-Simulation
 
 ## 2022
 - id: doi:10.5194/ica-abs-5-68-2022
@@ -32,11 +32,11 @@
       - Thomas J. Lampoltshammer
       - Johannes Scholz
   tags:
-      - kinematic
-      - human motion
-      - trajectories
-      - social physics
-      - mobility
+      - Kinematic
+      - Human Motion
+      - Trajectories
+      - Social Physics
+      - Mobility
 
 # Deep-Learning vs Regression: Prediction of Tourism Flow with Limited Data
 - id: doi:10.48550/arXiv.2206.13274
@@ -46,10 +46,10 @@
 - id: doi:10.3390/socsci11080356
   image: images/papers/08_abm4migration.png
   tags:
-    - agent-based modeling
-    - international migration
-    - migration policies
-    - system dynamics
+    - Agent-based Modeling
+    - International Migration
+    - Migration Policies
+    - System Dynamics
 
 # Data-driven Tourism for Sustainability: The Role of Transdisciplinarity and Computational Social Sciences in Tourist Studies Programs
 - title: 'Data-driven Tourism for Sustainability: The Role of Transdisciplinarity and Computational Social Sciences in Tourist Studies Programs'
@@ -73,29 +73,29 @@
 - id: doi:10.5194/agile-giss-3-55-2022
   image: images/papers/11_off_road_navigation.png
   tags:
-      - remote sensing
-      - deep learning
-      - robotics
+      - Remote Sensing
+      - Deep Learning
+      - Robotics
       - GeoAI
 
 #Optimising Antenna Positioning for Maximum Coverage: The Case Study of Cattle Tracking in Austrian Alps Using Long Range (LoRa) Based Monitoring System
 - id: doi:10.1007/978-3-031-06245-2_6
   image: images/papers/13_optimising_antenna_positioning.png
   tags:
-      - Antenna coverage location problem
-      - Spatial optimization
-      - Viewshed analysis
-      - Cattle mobility
+      - Antenna Coverage Location Problem
+      - Spatial Optimization
+      - Viewshed Analysis
+      - Cattle Mobility
       - LoRaWAN
 
 # Platial mobility: expanding place and mobility in GIS via platio-temporal representations and the mobilities paradigm
 - id: doi:10.1007/s10109-022-00389-3
   tags:
       - Place in GIScience
-      - Platial modeling
-      - Platial mobility
-      - Platial displacements
-      - Platio-temporal mobilities
+      - Platial Modeling
+      - Platial Mobility
+      - Platial Displacements
+      - Platio-temporal Mobilities
 
 # Point Patterns of Historical Landmarks in the Valley of Mexico
 - id: doi:10.5194/agile-giss-3-33-2022
@@ -104,7 +104,7 @@
       - Point Pattern Analysis
       - Point Process
       - Historical Monuments
-      - Mexico VAlley
+      - Mexico Valley
       - GeoHumanities
 
 # Research Directions for Merging Geospatial Technologies with Smart Manufacturing Systems
@@ -114,19 +114,19 @@
 - id: doi:10.1007/978-3-031-04870-8_56
   image: images/papers/01_amadee_20.jpg
   tags:
-      - Field robotics
-      - Space exploration
-      - Rebot navigation
+      - Field Robotics
+      - Space Exploration
+      - Robot Navigation
 
 # The Intersection between GIScience and History: an Overview of an Emerging Scientific Field
 - id: doi:10.5194/agile-giss-3-48-2022
   image: images/papers/10_the_intersection_bet_GIScience.png
   tags:
       - GIS
-      - history
-      - digital humanities
-      - historical GIS
-      - literature review
+      - History
+      - Digital Humanities
+      - Historical GIS
+      - Literature Review
 
 ## 2021
 # Simulating the forest fuel market as a socio‐ecological system with spatial agent‐based methods: A case study in Carinthia, Austria
@@ -137,10 +137,10 @@
 - id: doi:10.25436/E2JS3V
   image: images/papers/06_supply_chain_kg.png
   tags: 
-      - geospatial knowledge graph
-      - geospatial semantics
-      - spatio-temporal trajectory
-      - supply chain visibility
+      - Geospatial Knowledge Graph
+      - Geospatial Semantics
+      - Spatio-temporal Trajectory
+      - Supply Chain Visibility
 
 #Eco-friendly Routing based on real-time Air-quality Sensor Data from Vehicles
 - id: doi:10.25436/E23W2G
@@ -179,20 +179,20 @@
 - id: doi:10.1007/978-3-030-14745-7_17
   image: images/papers/04_indoor_geography.jpg
   tags: 
-      - Indoor geography
-      - Smart manufacturing
+      - Indoor Geography
+      - Smart Manufacturing
       - Industry 4.0
-      - Agent-based modeling
+      - Agent-based Modeling
 
 #An Approach to Decompose and Evaluate a Complex GIS-Application Design to a Simple, Lightweight, User-Centered App-Based Design Using User Experience Evaluation
 - id: doi:10.3390/ijgi9090505
   image: images/papers/17_an_approach_to_decompose.png
   tags:
-      - user experience evaluation
-      - app-centered approach
-      - web application
+      - User Experience Evaluation
+      - App-centered Approach
+      - Web Application
       - GIS
-      - user-centered design
+      - User-centered Design
 
 ##2019
 
@@ -246,16 +246,16 @@
 - id: doi:10.1007/978-3-658-27495-5_8
   image: images/papers/02_heating_types_gleisdorf.png
   tags:
-    - Agent-based Simulation
-    - Thermal energy transition
-    - Spatial information
+    - Agent-based Modeling
+    - Thermal Energy Transition
+    - Spatial Information
 
 #Role-Tailored Map Dashboards - A New Approach for Enhancing the Forest-based Supply Chain
 - id: doi:10.3390/ijgi8010041
   image: images/papers/19_role-tailored_map_dashboards.png
   tags:
-      - digital forest
-      - map dashboard
-      - forest-based supply chain
-      - web mapping apps
-      - field study
+      - Digital Forest
+      - Map Dashboard
+      - Forest-based Supply Chain
+      - Web Mapping Apps
+      - Field Study
