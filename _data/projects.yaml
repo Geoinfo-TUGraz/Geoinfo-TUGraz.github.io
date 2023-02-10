@@ -6,10 +6,10 @@
   link: projects/ABM4EnergyTransition
   description: Simulation approach for the spatial analysis and assessment of pathways for the municipal heat and energy transition using agent-based modeling.
   tags:
-    - agent-based modeling
-    - simulation
-    - energy transition
-    - renewable energy
+    - Agent-based Modeling
+    - Simulation
+    - Energy Transition
+    - Renewable Energy
 
 - title: dTS
   group: featured
@@ -64,10 +64,10 @@
   link: projects/dboema
   description: Datenbank der bairischen Mundarten - electronically mapped
   tags:
-    - Interactive dialect database
+    - Interactive Dialect Database
     - WebGIS
-    - Visualized linguistic areas
-    - Web-based knowledge infrastructure
+    - Visualized Linguistic Areas
+    - Knowledge Infrastructure
     
 - title: Spatial Data Infrastructure for Indoor Manufacturing Environments
   group: more
@@ -87,7 +87,7 @@
   group: more
   image: 
   link: projects/CLCplus2
-  description: Technical specifications for the implementation of CLC+ based on the EAGLE concept additional support for further development of CLC+ components (CLC-Backbone and CLC-Core) 
+  description: Technical specifications for the implementation of CLC+ based on the EAGLE concept and additional support for further development of CLC+ components (CLC-Backbone and CLC-Core) 
   tags: 
   
 - title: Steirerteich
