@@ -5,7 +5,7 @@ nav:
   tooltip: Open and completed bachelor and master thesis topics
 ---
 
-# <i class="fas fa-memo"></i>BSc/MSc Thesis Topics
+# <i class="fas fa-memo-pad"></i>BSc/MSc Thesis Topics
 
 {% include search-info.html %}
 
