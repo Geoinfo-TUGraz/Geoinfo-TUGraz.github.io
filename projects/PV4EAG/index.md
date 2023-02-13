@@ -23,9 +23,9 @@ Duration of the project: 01 January 2022 - 31 December 2023
 * dwh GmbH
 
 ### Acknowledgements
-#{%
-#  include figure.html
-#  image="images/projects/dTS/ffg_bmk_logo.png"
-#  width="400px"
-#%}
+{%
+  include figure.html
+  image="images/projects/dTS/ffg_bmk_logo.png"
+  width="400px"
+%}
 Funded in the programme ...
