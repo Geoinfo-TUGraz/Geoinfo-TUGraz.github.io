@@ -24,7 +24,7 @@ Duration of the project: 01 December 2021 - 31 May 2024
 {%
   include figure.html
   image="images/projects/dTS/ffg_bmk_logo.png"
-  width="200px"
+  width="400px"
 %}
 Funded in the programme "ICT of the Future" by the Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK) under grand no. FO999887513
 
