@@ -5,7 +5,7 @@ nav:
   tooltip: Available courses of the research group
 ---
 
-# <i class="fas fa-books"></i>Courses
+# <i class="fa-solid fa-building-columns"></i>Courses
 
 {% include search-info.html %}
 
