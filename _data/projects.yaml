@@ -38,6 +38,9 @@
   link: projects/IGNITE
   description: Improved assessment of forest fire susceptibility
   tags:
+     - Machine Learning
+     - Risk Minimization
+     - Prediction of forest fires
 
 - title: GeoCrow
   group: featured
