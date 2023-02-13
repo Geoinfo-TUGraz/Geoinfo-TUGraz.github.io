@@ -5,7 +5,7 @@ nav:
   tooltip: Learning resources, books, interesting papers, etc.
 ---
 
-# <i class="fas fa-books"></i>Resources
+# <i class="fas fa-book"></i>Resources
 
 {% include search-info.html %}
 
