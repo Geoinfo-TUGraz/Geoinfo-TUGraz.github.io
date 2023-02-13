@@ -8,22 +8,24 @@ Duration of the project: 01 December 2021 - 31 May 2024
 
 
 ### Partners
-{%
-  include figure.html
-  image="images/projects/dTS/dTS_partners.png"
+{% 
+  include figure.html 
+  image="images/projects/dTS/dTS_partners.png" 
 %}
 
-* FH JOANNEUM, Institut "Energie-, Verkehrs- und Umweltmanagement"
-* TU Graz, Institut für Softwareentwicklung
-* Campus 02 - Institut Automatisierungstechnik
-* Energie Agentur Steiermark gGmbH
-* dwh GmbH
+* University for Continuing Education Krems
+* Nexyo GmbH
+* DatenVorsprung GmbH
+* TSG Tourismus Salzburg GmbH
+* Salzburg University of Applied Sciences
+* Fuscher Freges GmbH
 
 ### Acknowledgements
-#{%
-#  include figure.html
-#  image="images/projects/dTS/ffg_bmk_logo.png"
-#  width="400px"
-#%}
-Funded in the programme ...
 
+{% 
+    include figure.html 
+    image="images/projects/dTS/ffg_bmk_logo.png" 
+    width="400px" 
+%} 
+
+Funded in the programme "ICT of the Future" by the Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK) under grand no. FO999887513
