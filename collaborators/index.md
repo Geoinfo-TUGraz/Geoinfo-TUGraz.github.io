@@ -5,7 +5,7 @@ nav:
   tooltip: Collaborations with other universities or organizations
 ---
 
-# <i class="fas fa-users"></i>Collaborators
+# <i class="fa-solid fa-handshake"></i>Collaborators
 
 {% include section.html %}
 * OGC
