@@ -6,3 +6,25 @@ While new digital solutions might provide new challenges, the same technologies 
 
 Duration of the project: 01 December 2021 - 31 May 2024
 
+
+### Partners
+{%
+  include figure.html
+  image="images/projects/dTS/dTS_partners.png"
+%}
+
+* University for Continuing Education Krems
+* Nexyo GmbH
+* DatenVorsprung GmbH
+* TSG Tourismus Salzburg GmbH
+* Salzburg University of Applied Sciences
+* Fuscher Freges GmbH
+
+### Acknowledgements
+{%
+  include figure.html
+  image="images/projects/dTS/ffg_bmk_logo.png"
+  width="200px"
+%}
+Funded in the programme "ICT of the Future" by the Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK) under grand no. FO999887513
+
