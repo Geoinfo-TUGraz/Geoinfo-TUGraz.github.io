@@ -6,8 +6,8 @@ Our energy system is undergoing rapid change. New technologies and opportunities
 
 {%
   include figure.html
-  image="images/projects/ABM4ET/ABM4ET.png"
-  caption="(c) GISolutions"
+  image="images/projects/ABM4EnergyTransition/abm4et_logo_big.png"
+  caption="(c) GISolutions e.U."
 %}
 
 The concrete project objective of ABM4EnergyTransition is the development and demonstration of a novel simulation approach based on agent-based modeling (ABM) for the spatial analysis and assessment of pathways for the municipal heat and energy transition. The ABM methodology considers both spatial data to describe the energy system of a study area (buildings, grid-based energy infrastructure such as natural gas or district heating networks, renewable potentials, population structure) and parameters to describe the behavior of actors (agents) within this energy system (homeowners, investors, policy makers) taking into account demographic and socio - technical parameters such as income and state of education. The methodological approach represents an extension of existing energy planning approaches and helps to better assess the impact of public policies on the achievement of climate and energy goals. The tangible project result will be a prototypical web application with map representation of buildings and energy infrastructure incl. dashboard using two study areas, which allows users from administration and planning to plan possible energy policy and/or technical interventions in the ABM and to display the results (e.g.: Energy and Life Cycle Assessment as well as technology and energy carrier mix in variable spatial and temporal granularity, etc.). The results can be exported for further
@@ -18,7 +18,7 @@ Duration of the project: 01 November 2022 - 31 October 2024
 ### Partners
 {%
   include figure.html
-  image="images/projects/ABM4ET/partners.png"
+  image="images/projects/ABM4EnergyTransition/abm4et_partners.png"
 %}
 
 * AEE INTEC GmbH
