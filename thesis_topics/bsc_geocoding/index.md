@@ -21,7 +21,11 @@ Die Bachelorarbeit soll einen Überblick über aktuell verfügbare Adresslocator
 * Erstellung von einem Adresslocator für die Stadt Graz
 
 ## Kollaboration
+{% 
+    include figure.html 
+    image="images/theses/bsc_geocoding/stadt_graz_logo.jpg" 
+    width="300px" 
+%}
 Stadt Graz, Stadtvermessungsamt: www.graz.at
-
 Kontakt: DI Elke Achleitner, DI Bernhard Rieder
-{% include figure.html image="images/theses/bsc_geocoding/stadt_graz_logo.jpg" %}
+
