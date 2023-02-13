@@ -10,4 +10,22 @@ In the PV4EAG project, alternative PV areas are to be analyzed using methods fro
 
 Duration of the project: 01 January 2022 - 31 December 2023
 
+### Partners
+{%
+  include figure.html
+  image="images/projects/PV4EAG/pv4eag_partners.png"
+%}
 
+* FH JOANNEUM - Institut für Energie-, Verkehrs- und Umweltmanagement
+* TU Graz - Institut für Softwareentwicklung
+* Campus 02 - Institut für Automatisierungstechnik
+* Energie Agentur Steiermark gGmbH
+* dwh GmbH
+
+### Acknowledgements
+#{%
+#  include figure.html
+#  image="images/projects/dTS/ffg_bmk_logo.png"
+#  width="400px"
+#%}
+Funded in the programme ...
