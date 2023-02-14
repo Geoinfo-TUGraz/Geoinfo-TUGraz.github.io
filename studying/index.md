@@ -2,11 +2,10 @@
 title: Studying
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Relevant Material for Students
 ---
 
 # <i class="fas fa-microscope"></i>Studying
-<!--Here are some scientific papers of our research group listed.-->
 
 {% include section.html %}
 
@@ -15,19 +14,19 @@ nav:
   image="images/photo.jpg"
   link="courses"
   title="Courses"
-  text="Research papers of the RG"
+  text="University courses offered by the Research Group Geoinformation"
 %}
 {%
   include feature.html
   image="images/photo.jpg"
   link="resources"
   title="Resources"
-  text="Projects of the RG"
+  text="Helpful resources for students, such as software, books, or research papers"
 %}
 {%
   include feature.html
   image="images/photo.jpg"
   link="thesis_topics"
   title="BSc/MSc Thesis Topics"
-  text="Thesis topics of the RG"
+  text="A list of open and completed BSc and MSc thesis topics"
 %}
