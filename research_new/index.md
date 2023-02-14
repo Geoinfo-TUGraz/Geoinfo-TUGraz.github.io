@@ -12,8 +12,22 @@ nav:
 
 {%
   include feature.html
-  image="images/earth.png"
+  image="images/photo.jpg"
   link="research"
   title="Our Papers"
   text="Research papers of the RG"
+%}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="projects"
+  title="Our Projects"
+  text="Projects of the RG"
+%}
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="collaborators"
+  title="Our Collaborations"
+  text="Collaborations of the RG"
 %}
