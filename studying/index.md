@@ -26,7 +26,7 @@ University courses offered by the Research Group Geoinformation
 
 {%
   include feature.html
-  image="images/fa-university.svg"
+  image="images/website/fa-papers.png"
   link="courses"
   title=""
   text=text
@@ -50,7 +50,7 @@ Helpful resources for students, such as software, books, or research papers
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/website/fa-book.png"
   link="resources"
   title=""
   text=text
@@ -74,7 +74,7 @@ A list of open and completed BSc and MSc thesis topics
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/website/fa-theses.png"
   link="thesis_topics"
   title=""
   text=text
