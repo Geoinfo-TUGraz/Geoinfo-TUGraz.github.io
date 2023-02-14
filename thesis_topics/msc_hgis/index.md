@@ -16,7 +16,7 @@ Die Architektur des WebGIS baut aktuell auf ein kommerzielles Produkt (ESRI) auf
 
 {% 
     include figure.html 
-    image="images/theses/msc_hgis/HGIS.jpg" 
+    image="images/theses/msc_hgis/hgis.jpg" 
     caption="Screenshot des WebGIS von HGIS de las Indias"
 %}
 
