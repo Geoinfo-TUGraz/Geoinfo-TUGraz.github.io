@@ -12,8 +12,7 @@ nav:
 
 {%
   include feature.html
-  image="images/microscope_solid.svg"
-  width="400px"
+  image="images/microscope-solid.svg"
   link="research"
   title="Our Papers"
   text="Research papers of the RG"
