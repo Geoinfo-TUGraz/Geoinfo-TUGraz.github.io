@@ -52,8 +52,8 @@ Helpful resources for students, such as software, books, or research papers
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Resources"
-  text=""
+  title=""
+  text=text
 %}
 
 
@@ -76,6 +76,6 @@ A list of open and completed BSc and MSc thesis topics
   include feature.html
   image="images/photo.jpg"
   link="thesis_topics"
-  title="BSc/MSc Thesis Topics"
-  text=""
+  title=""
+  text=text
 %}
