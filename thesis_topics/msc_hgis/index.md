@@ -17,7 +17,7 @@ Die Architektur des WebGIS baut aktuell auf ein kommerzielles Produkt (ESRI) auf
 {% 
     include figure.html 
     image="images/theses/msc_hgis/hgis.jpg" 
-    caption="Screenshot des WebGIS von HGIS de las Indias"
+    caption="Abb. 1: Screenshot des WebGIS von HGIS de las Indias"
 %}
 
 ## Aufgabenstellung und Ziele
@@ -45,10 +45,10 @@ Der Ablauf der Arbeit umfasst folgende Schritte:
 
 
 ## Anforderungen 
-Kenntnisse im Programmieren,
-WebGIS & CyberGIS 
-webbasierte Architekturen
-Kenntnisse im Bereich konzeptionelle Datenbank Modellierung sowie Datenmigration 
+Kenntnisse im Programmieren \
+WebGIS & CyberGIS \
+webbasierte Architekturen\
+Kenntnisse im Bereich konzeptionelle Datenbank Modellierung sowie Datenmigration \
 Interesse im Bereich Semantic Web (Linked Data) 
 
 
@@ -58,8 +58,8 @@ Interesse im Bereich Semantic Web (Linked Data)
     image="images/theses/msc_hgis/uni_graz_logo.png" 
     width="300px" 
 %}
-Universität Graz
-Institut für Geschichte
+Universität Graz \
+Institut für Geschichte \
 Werner Stangl
 
 
