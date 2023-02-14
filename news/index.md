@@ -5,7 +5,7 @@ nav:
   tooltip: News from the Research Group
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>News
 
 {% include section.html %}
 
@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-## News
+## Twitter Updates
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
