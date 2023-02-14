@@ -18,6 +18,7 @@ nav:
   icon="fas fa-arrow-right"
   flip=true
 %}
+
 University courses offered by the Research Group Geoinformation
 {:.center}
 {% endcapture %}
