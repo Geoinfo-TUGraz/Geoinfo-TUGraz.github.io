@@ -10,10 +10,11 @@ nav:
 {% include section.html %}
 
 {% capture text %}
+University courses offered by the Research Group Geoinformation
 {%
   include link.html
   link="courses"
-  text="University courses offered by the Research Group Geoinformation"
+  text="Courses"
   icon="fas fa-arrow-right"
   flip=true
 %}
