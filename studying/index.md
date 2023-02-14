@@ -9,12 +9,24 @@ nav:
 
 {% include section.html %}
 
+{% capture text %}
+{%
+  include link.html
+  link="courses"
+  text="Courses"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+University courses offered by the Research Group Geoinformation
+{:.center}
+{% endcapture %}
+
 {%
   include feature.html
   image="images/photo.jpg"
   link="courses"
   title="Courses"
-  text="University courses offered by the Research Group Geoinformation"
+  text=text
 %}
 {%
   include feature.html
