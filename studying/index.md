@@ -10,7 +10,7 @@ nav:
 {% include section.html %}
 
 {% capture text %}
-University courses offered by the Research Group Geoinformation
+
 {%
   include link.html
   link="courses"
@@ -18,7 +18,7 @@ University courses offered by the Research Group Geoinformation
   icon="fas fa-arrow-right"
   flip=true
 %}
-
+University courses offered by the Research Group Geoinformation
 {:.center}
 {% endcapture %}
 
@@ -26,7 +26,7 @@ University courses offered by the Research Group Geoinformation
   include feature.html
   image="images/photo.jpg"
   link="courses"
-  title="Courses"
+  title=""
   text=text
 %}
 {%
