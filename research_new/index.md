@@ -12,7 +12,7 @@ nav:
 
 {%
   include feature.html
-  image="images/earth.jpg"
+  image="../images/earth.jpg"
   link="papers"
   title="Our Papers"
   text="Research papers of the RG"
