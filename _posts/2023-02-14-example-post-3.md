@@ -1,0 +1,8 @@
+---
+title: First Post
+tags: introduction, new
+author: Georg
+member: geowei
+---
+
+This is the first news article on our new research group website. From now on we will post updates, news and other stuff here in this blog.
