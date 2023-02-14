@@ -26,7 +26,7 @@ University courses offered by the Research Group Geoinformation
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/fa-university.svg"
   link="courses"
   title=""
   text=text
