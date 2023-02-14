@@ -1,8 +1,8 @@
 ---
 title: Resources
-nav:
-  order: 2
-  tooltip: Learning resources, books, interesting papers, etc.
+#nav:
+#  order: 2
+#  tooltip: Learning resources, books, interesting papers, etc.
 ---
 
 # <i class="fas fa-book"></i>Resources

@@ -1,8 +1,8 @@
 ---
 title: BSc/MSc Thesis Topics
-nav:
-  order: 2
-  tooltip: Open and completed bachelor and master thesis topics
+#nav:
+#  order: 2
+#  tooltip: Open and completed bachelor and master thesis topics
 ---
 
 # <i class="fas fa-thought-bubble"></i>BSc/MSc Thesis Topics

@@ -1,8 +1,8 @@
 ---
 title: Courses
-nav:
-  order: 2
-  tooltip: Available courses of the research group
+#nav:
+#  order: 2
+#  tooltip: Available courses of the research group
 ---
 
 # <i class="fa-solid fa-building-columns"></i>Courses
