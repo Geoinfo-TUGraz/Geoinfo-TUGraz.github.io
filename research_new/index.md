@@ -12,7 +12,7 @@ nav:
 
 {%
   include feature.html
-  image="images/microscope_solic.svg
+  image="images/microscope_solid.svg
   link="research"
   title="Our Papers"
   text="Research papers of the RG"
