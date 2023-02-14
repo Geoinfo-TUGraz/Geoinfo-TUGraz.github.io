@@ -1,10 +1,38 @@
 # Current Projects
 
-- title: MSc Testproject
-  image: images/ABM4Energy_cropped.png
+- title: Spatial Analysis of Austrian directional adverbs with special emphasis on their relevance in spatial cognition
+  image: 
   link: thesis_topics/Testproject
-  description: This is a testproject for testing the msc theses template
-  tags:
-    - yes
-    - it
-    - works
+  description:
+
+- title: Ontology and Epistemology of Indoor Manufacturing Environments
+  image: 
+  link: thesis_topics/Testproject
+  description:
+
+- title: GeoKG's and their role for explainable GeoAI models
+  image: 
+  link: thesis_topics/Testproject
+  description:
+
+- title: Linked Data enabled Spatial Data Infrastructure for Rock Glacier Monitoring
+  image: 
+  link: thesis_topics/Testproject
+  description:
+
+- title: Open Source Technologien für HGIS de las Indias
+  image: 
+  link: thesis_topics/msc_hgis
+  description:
+
+- title: FFG dTS: Locational detection from Mobility Datasets in the context of Sustainable Tourism
+  image: 
+  link: thesis_topics/Testproject
+  description:
+
+- title: FFG dTS: Spatio-temporal Statistics for Mobility Data in the Context of Sustainable Tourism
+  image: 
+  link: thesis_topics/Testproject
+  description:
+
+
