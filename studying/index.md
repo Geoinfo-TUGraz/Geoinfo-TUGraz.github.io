@@ -25,7 +25,13 @@ University courses offered by the Research Group Geoinformation
   include feature.html
   image="images/photo.jpg"
   link="courses"
-  title="Courses"
+  title={%
+  include link.html
+  link="courses"
+  text="Courses"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
   text=text
 %}
 {%
