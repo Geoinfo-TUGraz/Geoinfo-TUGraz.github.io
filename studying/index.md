@@ -13,11 +13,11 @@ nav:
 {%
   include link.html
   link="courses"
-  text="Courses"
+  text="University courses offered by the Research Group Geoinformation"
   icon="fas fa-arrow-right"
   flip=true
 %}
-University courses offered by the Research Group Geoinformation
+
 {:.center}
 {% endcapture %}
 
@@ -25,13 +25,7 @@ University courses offered by the Research Group Geoinformation
   include feature.html
   image="images/photo.jpg"
   link="courses"
-  title={%
-  include link.html
-  link="courses"
-  text="Courses"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
+  title="Courses"
   text=text
 %}
 {%
