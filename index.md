@@ -62,7 +62,7 @@ These research fields can be of vital interest for a number of application areas
 
 {%
   include feature.html
-  image="images/papers/20_dialect_lemma.png"
+  image=
   link="resources"
   title="Application Areas"
   flip=true
