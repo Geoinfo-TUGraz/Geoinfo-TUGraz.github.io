@@ -25,7 +25,7 @@ Duration of the project: 01 January 2022 - 31 December 2023
 ### Acknowledgements
 {%
   include figure.html
-  image="images/projects/dTS/ffg_bmk_logo.png"
-  width="400px"
+  image="images/ffg_logo_de[1].svg"
+  width="200px"
 %}
-Funded in the programme ...
+This project is funded by Österreichische Forschungsförderungsgesellschaft mbH (FFG) within the programme “Energieforschung (e!MISSION), Energieforschung, Energieforschung 7. Ausschreibung” (Project Number FO999888491)
