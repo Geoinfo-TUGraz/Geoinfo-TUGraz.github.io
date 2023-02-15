@@ -5,7 +5,7 @@ nav:
   tooltip: Relevant Material for Students
 ---
 
-# <i class="fas fa-microscope"></i>Studying
+# <i class="fas fa-solid fa-book-open"></i>Studying
 
 {% include section.html %}
 
@@ -26,7 +26,7 @@ University courses offered by the Research Group Geoinformation
 
 {%
   include feature.html
-  image="images/website/fa-papers.png"
+  image="images/website/fa-courses.png"
   link="courses"
   title=""
   text=text
