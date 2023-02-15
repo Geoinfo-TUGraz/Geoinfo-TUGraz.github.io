@@ -14,7 +14,7 @@ nav:
 {% capture text %}
 {%
   include link.html
-  link="courses"
+  link="studying/courses"
   text="Courses"
   icon="fas fa-arrow-right"
   flip=true
@@ -38,7 +38,7 @@ University courses offered by the Research Group Geoinformation
 {% capture text %}
 {%
   include link.html
-  link="resources"
+  link="studying/resources"
   text="Resources"
   icon="fas fa-arrow-right"
   flip=true
@@ -62,7 +62,7 @@ Helpful resources for students, such as software, books, or research papers
 {% capture text %}
 {%
   include link.html
-  link="thesis_topics"
+  link="studying/thesis_topics"
   text="BSc/MSc Thesis Topics"
   icon="fas fa-arrow-right"
   flip=true
