@@ -21,7 +21,7 @@ Duration of the project: 01 April 2022 - 30 September 2024
 ### Acknowledgements
 {%
   include figure.html
-  image="images/projects/dTS/ffg_bmk_logo.png"
+  image="images/projects/IGNITE/waldfonds.png"
   width="400px"
 %}
-Funded in the programme ...
+Funded in the programme Waldfonds - Call Frühwarnsysteme
