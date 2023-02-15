@@ -1,7 +1,7 @@
 ---
 title: Studying
 nav:
-  order: 1
+  order: 3
   tooltip: Relevant Material for Students
 ---
 
@@ -27,7 +27,7 @@ University courses offered by the Research Group Geoinformation
 {%
   include feature.html
   image="images/website/fa-courses.png"
-  link="courses"
+  link="studying/courses"
   title=""
   text=text
 %}
@@ -51,7 +51,7 @@ Helpful resources for students, such as software, books, or research papers
 {%
   include feature.html
   image="images/website/fa-book.png"
-  link="resources"
+  link="studying/resources"
   title=""
   text=text
 %}
@@ -75,7 +75,7 @@ A list of open and completed BSc and MSc thesis topics
 {%
   include feature.html
   image="images/website/fa-theses.png"
-  link="thesis_topics"
+  link="studying/thesis_topics"
   title=""
   text=text
 %}
