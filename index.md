@@ -62,6 +62,7 @@ These research fields can be of vital interest for a number of application areas
 
 {%
   include feature.html
+  image="images/papers/11_off_road_navigation.png"
   link="resources"
   title="Application Areas"
   flip=true
