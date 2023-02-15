@@ -24,4 +24,4 @@ Duration of the project: 01 April 2022 - 30 September 2024
   image="images/projects/IGNITE/waldfonds.png"
   width="400px"
 %}
-Funded in the programme Waldfonds - Call Frühwarnsysteme
+This project is funded by the Austrian Waldfonds within "Maßnahme 6: Waldbrandprävention".
