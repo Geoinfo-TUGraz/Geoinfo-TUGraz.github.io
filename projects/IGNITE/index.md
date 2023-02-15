@@ -6,3 +6,22 @@ The moisture content of combustible soil material in forests is the critical ele
 Duration of the project: 01 April 2022 - 30 September 2024
 
 
+### Partners
+{%
+  include figure.html
+  image="images/projects/IGNITE/ignite_partners.png"
+%}
+
+* Universität für Bodenkultur (BOKU) Wien, Institut für Waldbau
+* BOKU, Institut für Meteorologie und Klimatologie
+* BOKU, Institut für Geomatik
+* Montanuniversität Leoben, Zentrum am Berg
+* ZAMG, Zentralanstalt für Meteorologie und Geodynamik
+
+### Acknowledgements
+{%
+  include figure.html
+  image="images/projects/dTS/ffg_bmk_logo.png"
+  width="400px"
+%}
+Funded in the programme ...
