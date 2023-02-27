@@ -12,10 +12,12 @@ pr:
 
 pa:
   icon: fas fa-code
+  text: Project Assistant
 
 ta:
   icon: fas fa-user-graduate
+  text: Teaching Assistant
 
 admin:
   icon: fas fa-file
-#  text: Undergraduate Student
+  text: Administration
