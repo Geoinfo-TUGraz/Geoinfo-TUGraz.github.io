@@ -10,7 +10,7 @@ Duration of the project: 01 February 2023 - 31 January 2025
 ### Partners
 {%
   include figure.html
-  image="images/geocrow_partners.png"
+  image="images/projects/GeoCrow/GeoCrow_partners.png"
 %}
 * Semantic Web Company GmbH
 * Technische Universität Wien
