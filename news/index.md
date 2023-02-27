@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 4
-  tooltip: News from the Research Group
+  tooltip: News from the research group
 ---
 
 # <i class="fas fa-feather-alt"></i>News

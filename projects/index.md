@@ -2,7 +2,7 @@
 title: Projects
 nav:
   order: 1
-  tooltip: Recent projects of the Research Group
+  tooltip: Recent projects of the research group
 ---
 
 # <i class="fas fa-tools"></i>Projects

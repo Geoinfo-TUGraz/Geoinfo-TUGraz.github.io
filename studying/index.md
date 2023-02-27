@@ -2,7 +2,7 @@
 title: Studying
 nav:
   order: 3
-  tooltip: Relevant Material for Students
+  tooltip: Relevant material for students
 ---
 
 # <i class="fas fa-solid fa-book-open"></i>Studying
