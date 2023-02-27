@@ -1,23 +1,23 @@
 asso:
-  icon: fas fa-graduation-cap
+  icon: fas fa-info
   text: Associate Professor
 
 assis:
-  icon: fas fa-graduation-cap
+  icon: fas fa-info
   text: Assistant Professor
 
 pr:
-  icon: fas fa-graduation-cap
+  icon: fas fa-info
   text: Postdoctoral Researcher
 
 pa:
-  icon: fas fa-code
+  icon: fas fa-info
   text: Project Assistant
 
 ta:
-  icon: fas fa-user-graduate
+  icon: fas fa-info
   text: Teaching Assistant
 
 admin:
-  icon: fas fa-file
+  icon: fas fa-info
   text: Administration
