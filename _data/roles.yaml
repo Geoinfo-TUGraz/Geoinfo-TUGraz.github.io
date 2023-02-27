@@ -1,5 +1,14 @@
-general:
+asso:
   icon: fas fa-graduation-cap
+  text: Associate Professor
+
+assis:
+  icon: fas fa-graduation-cap
+  text: Assistant Professor
+
+pr:
+  icon: fas fa-graduation-cap
+  text: Postdoctoral Researcher
 
 pa:
   icon: fas fa-code

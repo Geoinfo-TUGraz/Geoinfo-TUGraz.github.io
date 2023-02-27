@@ -11,7 +11,19 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: general"
+  filters="role: asso"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: assis"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: pr"
 %}
 {%
   include list.html
