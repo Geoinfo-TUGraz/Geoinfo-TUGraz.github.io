@@ -11,7 +11,7 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: general"
 %}
 {%
   include list.html
