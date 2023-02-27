@@ -8,6 +8,10 @@ Duration of the project: 01 February 2023 - 31 January 2025
 
 
 ### Partners
+{%
+  include figure.html
+  image="images/geocrow_partners.png"
+%}
 * Semantic Web Company GmbH
 * Technische Universität Wien
 * Bundesministerium für Landesverteidigung
@@ -20,4 +24,4 @@ Duration of the project: 01 February 2023 - 31 January 2025
   image="images/ffg_logo_de[1].svg"
   width="200px"
 %}
-This project is funded by Österreichische Forschungsförderungsgesellschaft mbH (FFG) within the programme “FORTE, FORTE, FORTE - Kooperative F&EProjekte 2021/2022” (Project Number )
+This project is funded by Österreichische Forschungsförderungsgesellschaft mbH (FFG) within the programme “FORTE, FORTE, FORTE - Kooperative F&EProjekte 2021/2022” (Project Number FO999895161)
