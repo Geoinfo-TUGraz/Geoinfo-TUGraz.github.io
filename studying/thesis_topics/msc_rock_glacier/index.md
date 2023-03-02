@@ -13,7 +13,7 @@ This coordination and standardization effort results in a national/global rock g
 {% 
     include figure.html 
     image="images/theses/msc_rock_glacier/01.png" 
-    width="400px"
+    width="500px"
 %}
 
 ## Objectives of this thesis
@@ -28,7 +28,7 @@ This coordination and standardization effort results in a national/global rock g
 {% 
     include figure.html 
     image="images/theses/msc_rock_glacier/02.png" 
-    width="400px"
+    width="500px"
 %}
 
 ## Sequence of actions
