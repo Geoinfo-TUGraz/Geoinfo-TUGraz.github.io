@@ -39,16 +39,16 @@ The thesis consists of the following work packages:
     image="images/theses/msc_dTS_location_detection/logo_datenvorsprung.png" 
     width="250px"
 %}
-Datenvorsprung GmbH \
+**Datenvorsprung GmbH** \
 www.datenvorsprung.at \
-Sophie Neubauer und Philipp Neubauer \
+Sophie Neubauer und Philipp Neubauer 
 
 {% 
     include figure.html 
     image="images/theses/msc_dTS_location_detection/logo_donauuni.png" 
     width="150px"
 %}
-Department for E-Governance and Administration \
-University for Continuing Education Krems | Danube University Krems \
+**Department for E-Governance and Administration \
+University for Continuing Education Krems | Danube University Krems** \
 Thomas Lampoltshammer
 
