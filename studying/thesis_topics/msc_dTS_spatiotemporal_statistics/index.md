@@ -3,12 +3,15 @@
 ---
 ## Motivation
 The dTS project approaches the challenge of intelligent data use for future-oriented development of tourism regions from a digital sustainability perspective, leveraging digitalization and data-driven technologies to address a) ecological, b) economical, c) and societal challenges from a transdisciplinary perspective in the domain of regional tourism. The main goal for the dTS project is to use the combination of AI and agentbased modelling/simulation to contribute to resilient and sustainable regional tourism in Austria on the example of visitor flow control. The active control and management of visitor flows based on the intelligent use of data can help to sustainably alter the behavior of tourists and lead to a better balance of capacities in the long run. Two use cases in the Land Salzburg have been selected with the aim of strengthening the entire region, exhaust mobility resources, and work towards carbon-neutrality. Therefore, the technical developments within the project need to be accompanied by a sustainable point of view to ensure its effectiveness and optimal integration within the regional tourist ecosystem. At the same time, all technical solutions will be following privacy-by-design patterns and strategies concerning the overall architecture, algorithms, data handling, as well as interaction with the system as a whole. 
+
 To answer the question: “How can the combination of AI and agent-based modelling/simulation contribute to resilient and sustainable regional tourism in Austria on the example of visitor flow control?”, dTS proposes a scalable and portable model for resilient and sustainable tourism. To achieve the development of such a framework, two use cases with different technological maturity levels are being examined. The result will be the design of a scalable data exchange and simulation platform that is also capable to serve as a data circle for visitor flows. Using artificial intelligence and agent-based simulations, the authentic movement and behavior patterns of the target groups are to be learned and understood to then incorporate these findings in the sense of a sustainable and gentle mobility concept. This also enables the modelling of "whatif" scenarios in the sense of decision support for the respective administrations. 
+
 For the project the consortium is utilizing a multitude of data sources that are used as proxy for the human behavior (i.e. tourist behavior). Among them are: mobile phone data, NEAR data, bike-related data, touristic POIs and data of the Salzburg Tourism Card. In order to develop accurate simulations, the consortium is interested in a geostatistical analysis of the movement of people represented by the data. Of special interest are the interdependencies with sport events (e.g. soccer games), holidays, cultural events (e.g. Salzburger Festspiele) or any other event.
 {% 
     include figure.html 
     image="images/theses/msc_dTS_spatiotemporal_statistics/01.png" 
-    caption="Fig.1: Example of a population density mapping with respect to different temporal contexts."
+    caption="Fig. 1: Example of a population density mapping with respect to different temporal contexts."
+    width="500px"
 %}
 
 ## Objectives and Goals
@@ -34,16 +37,18 @@ The thesis consists of the following work packages:
 {% 
     include figure.html 
     image="images/theses/msc_dTS_spatiotemporal_statistics/logo_datenvorsprung.png" 
+    width="250px"
 %}
-Datenvorsprung GmbH
+**Datenvorsprung GmbH**
 www.datenvorsprung.at
 Sophie Neubauer und Philipp Neubauer
 
 {% 
     include figure.html 
     image="images/theses/msc_dTS_spatiotemporal_statistics/logo_donauuni.png" 
+    width="150px"
 %}
-Department for E-Governance and Administration
-University for Continuing Education Krems | Danube University Krems
+**Department for E-Governance and Administration \
+University for Continuing Education Krems | Danube University Krems** \
 Thomas Lamp
 
