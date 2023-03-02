@@ -22,7 +22,7 @@ This coordination and standardization effort results in a national/global rock g
   * Analysis of existing rock glacier inventories
   * Review of surveying data for rock glaciers
   * Review of approaches to describe rock glacier kinematics
-* Development of a Linked Data enabled SDI for rock glaciers based on the conceptual model. This involves setting up a Linked Data endpoint including the inherent semantics (RDF Schema. Development of a strategy to integrate existing rock glacier inventories with Linked Data strategies.
+* Development of a Linked Data enabled SDI for rock glaciers based on the conceptual model. This involves setting up a Linked Data endpoint including the inherent semantics (RDF Schema). Development of a strategy to integrate existing rock glacier inventories with Linked Data strategies.
 * Integration of selected rock glacier test data sets, to prove the functionality of the prototype.
 
 {% 
@@ -32,7 +32,7 @@ This coordination and standardization effort results in a national/global rock g
 %}
 
 ## Sequence of actions
-* Development of an Exposé (approx. 7 pages), comprising of the following parts: introduction, relevant literature, objectives & research question, approach, expected results).
+* Development of an Exposé (approx. 7 pages), comprising of the following parts: introduction, relevant literature, objectives & research question, approach, expected results.
 * Notification of the Dean of Studies.
 * Development of the prototype and documentation (thesis), including: literature research, evaluation if stakeholder needs and requirements, development of the system, testing; 
 * Publication at an international conference on GISc or in a journal (mandatory!).
