@@ -3,7 +3,7 @@ title: Home
 ---
 
 # Institute for Geodesy – Research Group Geoinformation
-The Research Group Geoinformation is part of the Institute for Geodesy at the Graz University of Technology and is doing research in Geographic Information Science and applied Geoinformation. 
+Our working group is contributing to advancing the scientific field of Geographic Information Science (GIScience) through cutting-edge research in both fundamental and applied domains. Our team is committed to exploring and developing innovative geospatial tools and techniques for efficient and effective problem solving in diverse range of application domains.
 
 {:.center}
 
@@ -16,12 +16,16 @@ The Research Group Geoinformation is part of the Institute for Geodesy at the Gr
 
 {% capture text %}
 In order to contribute to the scientific field of Geographic Information Science we focus on
-*	Modeling Indoor Space with focus on Production Environments
-*	Ontologies and Semantics related to Geoinformation
-*	(spatial) Linked (open) Data 
-*	Numerical Methods (Operations Research) in Geography 
-*	Agent-based Modeling 
-*	Geolinguistics
+
+* Geospatial Artificial Intelligence (GeoAI)
+* (Geo)Spatial Agent Based Modeling (SABM)
+* (Geo)Spatial Optimization (GSO)
+* GeoKnowledge Graphs (GeoKG)
+* (Geo)Semantics and Ontologies (GSO)
+* Linked (Geo) Data(LGD)
+* GeoHumanities (GHum)
+* Geospatial data modeling (GDM)
+* Theoretical GIS (Geospatial data structures and algorithms) (TGIS)
 
 {%
   include link.html
@@ -42,12 +46,14 @@ In order to contribute to the scientific field of Geographic Information Science
 %}
 
 {% capture text %}
-These research fields can be of vital interest for a number of application areas, such as
-*	Transport Modeling and Simulation
-*	Forest-based Supply Chain: Modeling, Simulation, Optimization
-*	DSS for Indoor Production Environments
-*	Land Use and Land Cover Modeling
-*	Cyberinfrastructuctures and Information sharing 
+Our research work can be of vital interest for diverse fields of application. Some of our applied research domains are
+* Digital Tourism (e.g. Sustainable tourism, Tourist flow management, Predictive modeling)
+* Sustainable energy (e.g. Solar energy potential, energy transition)
+* Forests (e.g. Supply chain analysis and optimization, Fires)
+* Agriculture (e.g. Livestock monitoring)
+* Indoor Geography (e.g. Indoor modeling, localization, routing)
+* Disasters (e.g. Landslides, floods)
+* Humanities (e.g. Geolinguistics, Historical GIS)
 *	and many more
 
 {%
@@ -68,29 +74,3 @@ These research fields can be of vital interest for a number of application areas
   flip=true
   text=text
 %}
-
-<!--
-{% capture text %}
-Take a look at our team.
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
--->
