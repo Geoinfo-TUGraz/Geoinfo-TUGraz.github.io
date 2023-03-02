@@ -17,13 +17,13 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: assis"
+  filters="role: pr"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: pr"
+  filters="role: assis"
 %}
 {%
   include list.html
