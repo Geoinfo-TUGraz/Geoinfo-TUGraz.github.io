@@ -15,7 +15,7 @@ For the project the consortium is utilizing a multitude of data sources that are
 %}
 
 ## Objectives and Goals
-The objective of the MSc thesis is to employ spatial data mining techniques (e.g. DBSCAN) to analyze existing movement data concerning POIs where people tend to stay in the City of Salzburg. Due to the fact, that data on several years are available, this analysis should include the temporal dimension as well (dayvs. nighttime, winter vs. summer, week vs. weekend, events, etc.). In addition, the analysis has to encompass an uncertainty and accuracy evaluation and the contextual information as well. 
+The objective of the MSc thesis is to employ spatial data mining techniques (e.g. DBSCAN) to analyze existing movement data concerning POIs where people tend to stay in the City of Salzburg. Due to the fact, that data on several years are available, this analysis should include the temporal dimension as well (day- vs. nighttime, winter vs. summer, week vs. weekend, events, etc.). In addition, the analysis has to encompass an uncertainty and accuracy evaluation and the contextual information as well. 
 
 The analysis should comprise an in-depth evaluation of different spatial data mining techniques with respect to the mobility data at hand for the City of Salzburg. Additionally, the candidate should report on the accuracy that can be achieved with and without the usage of auxiliary data sets – that define the geographical context. 
 
