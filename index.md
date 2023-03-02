@@ -74,3 +74,5 @@ Our research work can be of vital interest for diverse fields of application. So
   flip=true
   text=text
 %}
+
+We are actively collaborating with other research institutes and research centers. We are an active member of Graz Center for Machine Learning (GraML), leading the Interdisciplinary Research Topic Geoinformatics ([Graz Center for Machine Learning](https://www.tugraz.at/forschung/forschen-an-der-tu-graz/research-centers/graz-center-for-machine-learning) - TU Graz).
