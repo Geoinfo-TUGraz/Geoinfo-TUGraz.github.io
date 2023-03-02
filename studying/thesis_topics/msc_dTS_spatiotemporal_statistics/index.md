@@ -39,8 +39,8 @@ The thesis consists of the following work packages:
     image="images/theses/msc_dTS_spatiotemporal_statistics/logo_datenvorsprung.png" 
     width="250px"
 %}
-**Datenvorsprung GmbH**
-www.datenvorsprung.at
+**Datenvorsprung GmbH** \
+www.datenvorsprung.at \
 Sophie Neubauer und Philipp Neubauer
 
 {% 
