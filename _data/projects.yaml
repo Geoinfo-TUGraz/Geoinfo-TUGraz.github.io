@@ -58,6 +58,14 @@
   link: projects/historical_regions
   description: 
   tags:
+
+- title: Geocoding - Umsetzung eines Adresslocators für die Stadt Graz
+  group: featured
+  image: 
+  link: projects/bsc_geocoding
+  description: 
+  tags:
+
  
  # Completed projects
   
