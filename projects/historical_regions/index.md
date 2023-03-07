@@ -10,3 +10,16 @@ In terms of spatial computation, this is a problem of estimating the geographica
 Another issue is the representation of the uncertainty of geographical information on maps and other cartographic visualization products. GIScience experts are trained to understand that all geographical information comes with a level of spatial uncertainty and may consider this when analyzing maps. However, in digital humanities, the representation of uncertainty becomes more important to prevent the users from misinterpreting the data. 
 
 Historical data also have a temporal component which increases the complexity of boundary estimation and visualization. Historical regions’ constituents may come from different sources and periods, showing how the region’s extents changed over time. This temporal variation also needs to be addressed in the methodology and visualization approach of this project. 
+
+### Colaborators
+* Karl Grossner, PhD
+* Dr. Eric Delmelle
+
+
+### Acknowledgements
+{%
+  include figure.html
+  image="images/projects/historical_regions/cagis_logo.avif"
+  width="200px"
+%}
+This project is funded by Cartography and Geographic Information Society.
