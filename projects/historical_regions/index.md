@@ -19,7 +19,7 @@ Historical data also have a temporal component which increases the complexity of
 ### Acknowledgements
 {%
   include figure.html
-  image="images/projects/historical_regions/cagis_logo.avif"
+  image="images/projects/historical_regions/cagis_logo.png"
   width="200px"
 %}
 This project is funded by Cartography and Geographic Information Society.
