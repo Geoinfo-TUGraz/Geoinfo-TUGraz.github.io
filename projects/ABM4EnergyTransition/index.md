@@ -2,7 +2,7 @@
 ## ABM4EnergyTransition
 
 ---
-__For an english version see below__
+*For an english version see below*
 
 Unsere Energieversorgung befindet sich in einem rasanten Umbruch. Neue Technologien und Möglichkeiten wie die Elektromobilität, Digitalisierung, Energiegemeinschaften oder Niedertemperatur-Wärmenetze drängen in den Markt, die in Einklang gebracht werden müssen mit gesellschaftlichen Forderungen nach mehr Nachhaltigkeit, wirtschaftlichen Rahmenbedingungen und politischen Bekenntnissen wie der österreichischen Wärmestrategie (Dekarbonisierung der Wärmeversorgung von Gebäuden bis 2040). Diese Komplexität stellt vor allem die Politik, aber auch die Akteure in Energieversorgung und Wirtschaft vor große Herausforderungen.  Eine energieeffiziente und klimafreundliche Wärmeversorgung der Zukunft erfordert nun planvolles und umsichtiges Handeln, die eine Modernisierung des Gebäudebestandes, eine nachhaltige Ausrichtung von Neubauten sowie die Umstellung der Wärme- und Kälteversorgung auf erneuerbare Energieträger ermöglicht und unterstützt.
 Neben der technischen und räumlichen Dimension der Energiewende muss auch der sozialen Dimension bei Planungs- und Entscheidungsfindungsprozessen zunehmende Wichtigkeit beigemessen werden. Die Verhaltensweisen und Entscheidungsmuster zentraler Akteure (Politik, öffentliche Verwaltung, Planer, Investoren, Energieversorgungsunternehmen, Bevölkerung) sind im Kontext der Wärme- und Energiewende höchst planungsrelevant, werden jedoch in aktuellen Prozessen kaum bis gar nicht berücksichtigt. Die Integration dieser Aspekte wird in dem avisierten Vorhaben adressiert und so bestehende Planungsansätze und -tools um essentielle Elemente ergänzt. 
@@ -10,8 +10,9 @@ Neben der technischen und räumlichen Dimension der Energiewende muss auch der s
 {%
   include figure.html
   image="images/projects/ABM4EnergyTransition/abm4et_logo_big.png"
-  caption="(c) GISolutions e.U."
+  caption="(c) Moving Layers GmbH"
 %}
+
 
 Konkretes Projektziel ist die Entwicklung und Demonstration eines neuartigen Simulationsmodelles zur Darstellung und Bewertung von Transformationspfaden für die kommunale Wärme- und Energiewende. Diese Methodik berücksichtigt sowohl räumlichen Daten zur Beschreibung des Energiesystems eines Untersuchungsgebietes (Gebäude, leitungsgebundene Infrastruktur, erneuerbare Potenziale, etc.) als auch Parameter zur Beschreibung des Verhaltens der Akteure innerhalb dieses Energiesystems (Hauseigentümer, Investoren, politische Entscheidungsträger) in Abhängigkeit demografischer und sozio-technischer Parameter,  wie z.B. Einkommen und Bildungsstand. Dieser Ansatz stellt eine Erweiterung bestehender energietechnischer Planungsansätze dar und ermöglicht mitunter die Wirkungsfolgenabschätzung von energiepolitischen Maßnahmen auf die Erreichung von Klima- und Energiezielen.
 Als Projektergebnis wird am Beispiel von zwei konkreten Untersuchungsgebieten eine prototypische Web-Applikation mit Kartendarstellung der Gebäude und Energieinfrastruktur inkl. Dashboard entwickelt, die es den NutzerInnen aus Verwaltung und Planung erlaubt, mögliche energiepolitische und/oder technische Interventionen zu planen und die entsprechenden Ergebnisse (z.B.: Energie- und Ökobilanz, Technologie- und Energieträgermix in variabler räumlicher und zeitlicher Granularität) zu visualisieren und zu analysieren. Die Ergebnisse können zur weiteren planerischen Verwendung, z.B. in der Energieraumplanung oder der Fernwärmeausbauplanung, exportiert und im eigenen GIS-System nutzbar gemacht werden. Zudem können vereinfachte Simulationsszenarien auch von interessierten BürgerInnen in der Web-Applikation für eine spielerische Auseinandersetzung mit dem Thema Wärmewende und Systemwandel initialisiert und visualisiert werden.
@@ -29,13 +30,13 @@ Duration of the project: 01 November 2022 - 31 October 2024
 ### Partners
 {%
   include figure.html
-  image="images/projects/ABM4EnergyTransition/abm4et_partners.png"
+  image="images/projects/ABM4EnergyTransition/abm4et_partners_neu.png"
 %}
 
-* AEE INTEC GmbH
+* AEE INTEC
 * École Polytechnique Fédérale de Lausanne, Laboratory on Human-Environment Relations in Urban Systems
 * Energieagentur Stmk gGmbH
-* GISolutions e.U.
+* Moving Layers GmbH
 * Stadtgemeinde Kapfenberg
 
 ### Acknowledgements
@@ -44,6 +45,5 @@ Duration of the project: 01 November 2022 - 31 October 2024
   image="images/ffg_logo_de[1].svg"
   width="200px"
 %}
-This is funded by 
-* Österreichische Forschungsförderungsgesellschaft mbH, FFG (Österreich) within the programme "AI for Green 2021" (Project Number FO999892237)
+This project is funded by Österreichische Forschungsförderungsgesellschaft mbH, FFG (Österreich) within the programme "AI for Green 2021" (Project Number FO999892237)
 
