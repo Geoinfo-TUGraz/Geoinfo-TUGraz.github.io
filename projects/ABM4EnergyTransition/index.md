@@ -2,7 +2,7 @@
 ## ABM4EnergyTransition
 
 ---
-*For an english version see below*
+*For an English version see below*
 
 Unsere Energieversorgung befindet sich in einem rasanten Umbruch. Neue Technologien und Möglichkeiten wie die Elektromobilität, Digitalisierung, Energiegemeinschaften oder Niedertemperatur-Wärmenetze drängen in den Markt, die in Einklang gebracht werden müssen mit gesellschaftlichen Forderungen nach mehr Nachhaltigkeit, wirtschaftlichen Rahmenbedingungen und politischen Bekenntnissen wie der österreichischen Wärmestrategie (Dekarbonisierung der Wärmeversorgung von Gebäuden bis 2040). Diese Komplexität stellt vor allem die Politik, aber auch die Akteure in Energieversorgung und Wirtschaft vor große Herausforderungen.  Eine energieeffiziente und klimafreundliche Wärmeversorgung der Zukunft erfordert nun planvolles und umsichtiges Handeln, die eine Modernisierung des Gebäudebestandes, eine nachhaltige Ausrichtung von Neubauten sowie die Umstellung der Wärme- und Kälteversorgung auf erneuerbare Energieträger ermöglicht und unterstützt.
 Neben der technischen und räumlichen Dimension der Energiewende muss auch der sozialen Dimension bei Planungs- und Entscheidungsfindungsprozessen zunehmende Wichtigkeit beigemessen werden. Die Verhaltensweisen und Entscheidungsmuster zentraler Akteure (Politik, öffentliche Verwaltung, Planer, Investoren, Energieversorgungsunternehmen, Bevölkerung) sind im Kontext der Wärme- und Energiewende höchst planungsrelevant, werden jedoch in aktuellen Prozessen kaum bis gar nicht berücksichtigt. Die Integration dieser Aspekte wird in dem avisierten Vorhaben adressiert und so bestehende Planungsansätze und -tools um essentielle Elemente ergänzt. 
