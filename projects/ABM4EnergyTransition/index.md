@@ -2,7 +2,7 @@
 ## ABM4EnergyTransition
 
 ---
-Um zu der aktuell laufenden Umfrage zum Thema "Energetische Gebäudesanierung und Innovative Technologien für die Energiewende" zu gelangen, klicken Sie bitte hier:  [tinyurl.com/energiewende2023](tinyurl.com/energiewende2023)
+Um zu der aktuell laufenden Umfrage zum Thema "Energetische Gebäudesanierung und Innovative Technologien für die Energiewende" zu gelangen, klicken Sie bitte hier:  [https://tinyurl.com/energiewende2023](https://tinyurl.com/energiewende2023)
 
 ---
 
