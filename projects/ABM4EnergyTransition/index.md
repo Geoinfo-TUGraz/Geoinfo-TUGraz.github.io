@@ -1,11 +1,6 @@
 # Agent-based Simulation of Transition Scenarios for regional Heating and Energy Transformation
 ## ABM4EnergyTransition
 
----
-Um zu der aktuell laufenden Umfrage zum Thema "Energetische Gebäudesanierung und Innovative Technologien für die Energiewende" zu gelangen, klicken Sie bitte hier:  [https://tinyurl.com/energiewende2023](https://tinyurl.com/energiewende2023)
-
----
-
 *For an English version see below*
 
 Unsere Energieversorgung befindet sich in einem rasanten Umbruch. Neue Technologien und Möglichkeiten wie die Elektromobilität, Digitalisierung, Energiegemeinschaften oder Niedertemperatur-Wärmenetze drängen in den Markt, die in Einklang gebracht werden müssen mit gesellschaftlichen Forderungen nach mehr Nachhaltigkeit, wirtschaftlichen Rahmenbedingungen und politischen Bekenntnissen wie der österreichischen Wärmestrategie (Dekarbonisierung der Wärmeversorgung von Gebäuden bis 2040). Diese Komplexität stellt vor allem die Politik, aber auch die Akteure in Energieversorgung und Wirtschaft vor große Herausforderungen.  Eine energieeffiziente und klimafreundliche Wärmeversorgung der Zukunft erfordert nun planvolles und umsichtiges Handeln, die eine Modernisierung des Gebäudebestandes, eine nachhaltige Ausrichtung von Neubauten sowie die Umstellung der Wärme- und Kälteversorgung auf erneuerbare Energieträger ermöglicht und unterstützt.
